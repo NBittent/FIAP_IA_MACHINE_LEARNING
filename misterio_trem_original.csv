@@ -1,0 +1,2001 @@
+ID,Nome,Idade,Destino,Classe,Valor_Gasto,Hora_Entrada_Restaurante,Hora_Saída_Restaurante,Objeto_Carregado
+1,Luísa da Conceição,58,Paris,1ª Classe,373.36,13,14,Carteira
+2,Davi Miguel Camargo,24,Madri,1ª Classe,299.34,10,11,Carteira
+3,Sr. Gustavo Henrique Borges,32,Madri,3ª Classe,23.0,13,15,Jornal
+4,Renan Araújo,55,Berlim,1ª Classe,381.82,12,14,Jornal
+5,Carlos Eduardo Gonçalves,27,Londres,2ª Classe,60.08,16,17,Jornal
+6,Stella Pires,40,Madri,2ª Classe,405.49,21,23,Boné
+7,Jade Rezende,42,Paris,3ª Classe,153.66,20,22,Chocolate
+8,Bianca Monteiro,63,Paris,1ª Classe,334.02,22,24,Bastão de Caminhada
+9,Ana Liz Viana,32,Paris,2ª Classe,146.21,20,22,Carteira
+10,Rafaela Lima,40,Londres,3ª Classe,140.82,20,21,Chocolate
+11,Luan Nogueira,28,Madri,3ª Classe,129.96,17,19,Jornal
+12,João Lucas Gomes,58,Madri,1ª Classe,345.46,22,23,Jornal
+13,João Miguel Moura,20,Berlim,2ª Classe,141.19,13,15,Jornal
+14,João Lucas Fernandes,49,Roma,3ª Classe,234.84,14,15,Jornal
+15,João Correia,53,Madri,2ª Classe,376.04,16,18,Jornal
+16,Natália Borges,26,Madri,2ª Classe,54.55,10,11,Carteira
+17,Théo Pinto,28,Roma,3ª Classe,41.13,16,18,Boné
+18,Apollo da Conceição,53,Paris,3ª Classe,363.15,20,22,Celular
+19,Dra. Hellena Garcia,39,Paris,2ª Classe,223.03,17,18,Faca
+20,Sr. Apollo Costa,64,Berlim,3ª Classe,383.36,18,19,Celular
+21,Lucas Fogaça,37,Madri,3ª Classe,107.47,15,16,Boné
+22,Antony Aparecida,67,Madri,1ª Classe,303.48,17,18,Carteira
+23,Luiz Miguel da Rocha,41,Berlim,1ª Classe,38.38,19,20,Carteira
+24,Beatriz Nascimento,49,Paris,3ª Classe,385.26,12,14,Faca
+25,Maria Julia Moura,28,Berlim,3ª Classe,437.49,16,17,Celular
+26,Bruno Dias,66,Londres,3ª Classe,162.74,20,22,Boné
+27,Luiz Miguel Barros,51,Roma,1ª Classe,131.47,11,13,Carteira
+28,Eduarda Souza,53,Londres,3ª Classe,117.91,11,12,Jornal
+29,Aylla Costa,20,Berlim,1ª Classe,261.94,14,16,Jornal
+30,Antônio Teixeira,26,Madri,3ª Classe,241.61,22,24,Celular
+31,Sr. Arthur Miguel Sampaio,30,Paris,1ª Classe,332.9,15,17,Boné
+32,Sophie Guerra,64,Paris,3ª Classe,330.19,20,21,Carteira
+33,Eloá Abreu,64,Berlim,1ª Classe,131.84,13,15,Carteira
+34,André Almeida,29,Berlim,2ª Classe,132.41,11,13,Celular
+35,Eduardo Souza,53,Paris,1ª Classe,329.55,18,19,Bengala
+36,Ana Lívia Vasconcelos,66,Londres,1ª Classe,209.14,17,18,Celular
+37,Raquel Lima,21,Londres,2ª Classe,11.06,16,18,Celular
+38,Valentina Araújo,68,Roma,2ª Classe,217.27,21,23,Carteira
+39,Ana Beatriz Sales,36,Londres,1ª Classe,293.8,18,19,Chocolate
+40,Benicio Nunes,21,Paris,3ª Classe,243.63,18,19,Carteira
+41,Manuella Brito,50,Paris,1ª Classe,43.58,11,12,Boné
+42,Anthony Duarte,54,Londres,3ª Classe,301.31,19,20,Boné
+43,Sr. Benicio Machado,55,Madri,3ª Classe,165.02,14,15,Chocolate
+44,Valentina Farias,38,Londres,2ª Classe,203.94,20,22,Boné
+45,Sr. Otávio Aparecida,66,Paris,1ª Classe,234.56,19,20,Carteira
+46,Vinícius Sales,31,Madri,2ª Classe,74.9,15,16,Celular
+47,Léo Sampaio,41,Berlim,1ª Classe,224.71,18,20,Chocolate
+48,Clara Vargas,69,Madri,1ª Classe,337.25,18,20,Celular
+49,Gael Sales,24,Londres,2ª Classe,66.56,11,12,Jornal
+50,Luan Montenegro,56,Londres,3ª Classe,178.01,20,22,Boné
+51,Bryan Farias,34,Paris,1ª Classe,320.8,14,15,Carteira
+52,Dr. Pedro Lucas Correia,67,Londres,3ª Classe,490.1,12,14,Boné
+53,Caleb Gomes,45,Madri,1ª Classe,64.82,21,22,Boné
+54,Pedro Miguel Correia,41,Madri,3ª Classe,82.57,12,13,Jornal
+55,Ana Liz Dias,68,Paris,2ª Classe,112.94,13,14,Jornal
+56,Dr. Gustavo Moreira,53,Roma,3ª Classe,377.24,13,14,Bengala
+57,Eloá Rios,69,Londres,2ª Classe,22.15,21,23,Celular
+58,Lucca Silveira,44,Londres,2ª Classe,88.01,21,22,Boné
+59,Eduardo Rocha,20,Roma,1ª Classe,107.79,17,19,Jornal
+60,Marina Freitas,68,Londres,1ª Classe,21.6,13,15,Jornal
+61,Ana Lívia Rios,22,Berlim,2ª Classe,324.33,16,18,Celular
+62,Cecilia Almeida,25,Berlim,1ª Classe,294.49,14,15,Carteira
+63,Olivia Cassiano,45,Berlim,3ª Classe,395.35,16,17,Boné
+64,Natália da Conceição,54,Londres,2ª Classe,31.75,16,17,Boné
+65,Lucca Caldeira,69,Madri,3ª Classe,362.52,21,22,Jornal
+66,Maria Laura Cassiano,22,Berlim,3ª Classe,163.82,11,13,Boné
+67,Srta. Jade da Conceição,60,Roma,2ª Classe,207.18,14,15,Jornal
+68,Davi Lucas Pacheco,60,Roma,3ª Classe,376.59,12,14,Boné
+69,Dr. Lucas Ribeiro,18,Berlim,2ª Classe,112.99,22,24,Boné
+70,Marina Mendes,46,Londres,3ª Classe,241.86,22,23,Chocolate
+71,Alexandre Aragão,36,Madri,3ª Classe,320.14,15,16,Celular
+72,Miguel Cavalcanti,66,Londres,3ª Classe,162.11,22,23,Carteira
+73,Daniela da Rosa,20,Londres,2ª Classe,309.52,22,23,Boné
+74,Maria Isis Pinto,58,Madri,1ª Classe,361.99,16,18,Boné
+75,Rebeca Moraes,27,Paris,1ª Classe,391.43,13,14,Celular
+76,Valentina Machado,62,Madri,2ª Classe,34.61,13,14,Boné
+77,Mariane Pacheco,69,Roma,3ª Classe,270.25,18,20,Faca
+78,Dra. Emanuelly Duarte,46,Madri,3ª Classe,447.09,16,18,Celular
+79,Dr. Luiz Henrique Cirino,65,Roma,2ª Classe,137.0,13,15,Celular
+80,Maria Clara Moraes,51,Roma,3ª Classe,127.23,17,18,Chocolate
+81,Mariana Araújo,33,Berlim,2ª Classe,166.66,18,19,Carteira
+82,Hadassa Rocha,32,Roma,3ª Classe,84.87,13,14,Boné
+83,Maria Julia Vargas,39,Madri,2ª Classe,213.73,13,15,Boné
+84,Antônio Viana,67,Madri,3ª Classe,19.57,22,24,Boné
+85,Oliver Correia,40,Berlim,2ª Classe,428.19,16,17,Boné
+86,José Nogueira,35,Roma,2ª Classe,24.22,15,17,Chocolate
+87,Sr. Otto Farias,47,Londres,3ª Classe,271.72,16,17,Carteira
+88,Liam da Rocha,45,Londres,2ª Classe,99.05,14,16,Jornal
+89,Maria Vitória Pires,47,Berlim,2ª Classe,383.0,16,18,Chocolate
+90,Bianca da Cruz,44,Berlim,1ª Classe,240.45,21,22,Bastão de Caminhada
+91,Ana Luiza Novaes,40,Londres,3ª Classe,43.62,20,21,Chocolate
+92,Sr. Arthur Miguel Pereira,33,Londres,1ª Classe,314.45,13,14,Boné
+93,Anthony Lopes,25,Madri,1ª Classe,237.87,14,16,Carteira
+94,Vitória Campos,56,Paris,1ª Classe,482.71,11,12,Celular
+95,Sra. Allana da Luz,54,Roma,2ª Classe,471.32,13,14,Chocolate
+96,Sr. Davi Luiz Fonseca,58,Londres,1ª Classe,351.62,14,15,Celular
+97,Hellena Rios,54,Paris,2ª Classe,271.05,20,22,Carteira
+98,Srta. Heloísa Novaes,59,Berlim,1ª Classe,426.29,17,18,Boné
+99,Sr. Isaque Montenegro,41,Roma,3ª Classe,84.97,12,14,Chocolate
+100,Stephany Monteiro,52,Roma,2ª Classe,223.43,21,23,Jornal
+101,Esther Araújo,33,Paris,2ª Classe,442.0,13,15,Chocolate
+102,Francisco Fernandes,60,Roma,2ª Classe,24.06,15,16,Boné
+103,Sr. Cauã Porto,40,Berlim,2ª Classe,147.03,19,21,Boné
+104,Maria Júlia Cunha,51,Londres,1ª Classe,128.26,16,18,Boné
+105,Isabelly Sousa,33,Roma,3ª Classe,358.8,17,18,Carteira
+106,Luiz Felipe Montenegro,32,Roma,3ª Classe,129.22,20,22,Boné
+107,Caio Pastor,51,Berlim,2ª Classe,498.35,18,20,Jornal
+108,João Miguel Siqueira,47,Berlim,2ª Classe,133.19,11,12,Jornal
+109,Ana Laura Rezende,65,Madri,3ª Classe,100.72,13,15,Jornal
+110,Maria Alice Viana,55,Madri,3ª Classe,148.67,11,12,Jornal
+111,Marina da Mota,41,Londres,2ª Classe,16.93,18,19,Jornal
+112,Dr. Benjamin das Neves,21,Madri,2ª Classe,351.73,12,14,Carteira
+113,João Lucas Montenegro,18,Madri,2ª Classe,240.0,17,19,Carteira
+114,Kamilly Dias,21,Berlim,2ª Classe,65.9,11,13,Boné
+115,Dra. Luiza Nascimento,54,Paris,1ª Classe,83.11,19,21,Carteira
+116,Davi Lucas Câmara,33,Paris,3ª Classe,384.58,19,20,Celular
+117,Ravy Melo,42,Roma,2ª Classe,155.7,19,21,Jornal
+118,Amanda Rocha,57,Paris,3ª Classe,480.45,11,12,Chocolate
+119,Dr. João Pedro Ferreira,34,Paris,1ª Classe,127.53,18,19,Carteira
+120,Bárbara Campos,44,Roma,3ª Classe,300.97,14,15,Jornal
+121,Isabel Ramos,63,Berlim,3ª Classe,431.21,11,12,Celular
+122,Samuel Fogaça,68,Madri,3ª Classe,403.91,13,15,Carteira
+123,Maria Vitória Costa,32,Londres,2ª Classe,415.05,11,12,Carteira
+124,João Felipe da Rocha,37,Madri,3ª Classe,413.88,14,16,Carteira
+125,Levi Vargas,62,Berlim,3ª Classe,207.23,14,16,Boné
+126,Otto Mendes,56,Paris,2ª Classe,369.92,19,21,Carteira
+127,Nina Sá,32,Madri,3ª Classe,475.89,22,24,Chocolate
+128,Juliana da Mata,66,Londres,2ª Classe,264.29,17,19,Carteira
+129,Ana Julia Sampaio,55,Roma,3ª Classe,408.98,11,13,Jornal
+130,Sr. Gabriel Viana,39,Berlim,3ª Classe,61.25,12,14,Boné
+131,Maria Isis Rezende,49,Berlim,3ª Classe,473.14,22,23,Boné
+132,Isaac da Mata,38,Berlim,2ª Classe,66.8,22,24,Celular
+133,Thiago Almeida,70,Paris,3ª Classe,435.99,17,19,Carteira
+134,Dante Novais,51,Berlim,3ª Classe,380.66,20,22,Celular
+135,Ryan Silva,31,Berlim,3ª Classe,74.2,14,16,Celular
+136,Danilo Rodrigues,49,Paris,1ª Classe,486.84,19,20,Chocolate
+137,Pietro Freitas,37,Madri,1ª Classe,280.6,11,12,Bastão de Caminhada
+138,Breno Rezende,25,Roma,1ª Classe,327.38,12,14,Celular
+139,Sr. Otávio Costela,36,Madri,3ª Classe,143.98,17,19,Jornal
+140,Ester Moreira,53,Londres,2ª Classe,103.4,19,20,Celular
+141,Vitor Gabriel Azevedo,35,Roma,2ª Classe,467.78,18,20,Celular
+142,Henrique Melo,36,Berlim,3ª Classe,294.16,20,22,Celular
+143,Carlos Eduardo Ramos,46,Madri,2ª Classe,179.11,18,20,Boné
+144,Ana Júlia Correia,38,Londres,3ª Classe,127.01,16,17,Celular
+145,Calebe Silveira,44,Paris,2ª Classe,374.91,21,23,Boné
+146,Lorena Vargas,60,Londres,2ª Classe,482.76,12,14,Celular
+147,Alexandre Castro,46,Paris,3ª Classe,456.12,10,11,Boné
+148,Fernanda Brito,59,Londres,1ª Classe,240.05,14,16,Chocolate
+149,Alexia da Mata,43,Paris,2ª Classe,427.65,18,20,Faca
+150,Igor Freitas,58,Roma,3ª Classe,27.59,11,12,Chocolate
+151,Maria Luiza Cirino,36,Londres,3ª Classe,54.29,11,12,Boné
+152,Enzo Pastor,62,Berlim,1ª Classe,32.54,22,23,Jornal
+153,Isabela da Costa,41,Roma,1ª Classe,129.66,16,17,Carteira
+154,Ravi Lucca Barbosa,23,Madri,2ª Classe,313.66,13,15,Celular
+155,Hadassa Casa Grande,27,Londres,2ª Classe,322.57,17,19,Chocolate
+156,Fernando Caldeira,69,Roma,2ª Classe,342.03,12,13,Boné
+157,Agatha da Cruz,40,Madri,2ª Classe,323.08,16,18,Boné
+158,Alana Leão,37,Londres,2ª Classe,428.13,11,12,Boné
+159,Dr. João Guilherme Monteiro,40,Madri,2ª Classe,496.42,14,15,Bengala
+160,Ana Cecília Abreu,60,Roma,2ª Classe,13.97,20,21,Celular
+161,Dra. Manuela Novaes,65,Roma,2ª Classe,390.11,13,15,Jornal
+162,Marcos Vinicius Gonçalves,30,Madri,2ª Classe,342.1,21,22,Chocolate
+163,Antonella Novaes,58,Paris,2ª Classe,396.42,10,12,Chocolate
+164,Dr. Bruno Silva,23,Berlim,2ª Classe,376.27,12,13,Carteira
+165,Marcos Vinicius Monteiro,52,Berlim,3ª Classe,255.88,14,15,Jornal
+166,Luna Cunha,70,Roma,2ª Classe,375.81,15,16,Boné
+167,Larissa da Rosa,22,Londres,1ª Classe,431.47,21,23,Bengala
+168,Sr. Isaque Cunha,69,Madri,2ª Classe,54.25,16,17,Jornal
+169,Sr. Mathias Sampaio,25,Roma,2ª Classe,339.69,20,22,Chocolate
+170,Oliver Santos,70,Berlim,1ª Classe,340.67,17,18,Chocolate
+171,Zoe da Cruz,53,Berlim,3ª Classe,118.47,11,13,Celular
+172,Alexandre Brito,37,Roma,1ª Classe,78.49,10,12,Bastão de Caminhada
+173,Amanda Macedo,25,Paris,1ª Classe,444.76,12,14,Boné
+174,Bianca da Paz,60,Madri,2ª Classe,297.8,21,22,Celular
+175,Dr. Davi Araújo,59,Paris,2ª Classe,311.67,14,15,Chocolate
+176,Pedro Henrique Câmara,31,Roma,2ª Classe,475.77,15,16,Bengala
+177,Ana Luiza Rezende,41,Madri,3ª Classe,185.75,16,18,Jornal
+178,Cecilia Rocha,25,Roma,1ª Classe,334.76,20,21,Carteira
+179,Davi Lucca Albuquerque,39,Londres,1ª Classe,395.62,13,14,Celular
+180,Julia Rezende,53,Londres,3ª Classe,115.82,13,15,Celular
+181,Catarina Pinto,68,Madri,1ª Classe,145.86,12,13,Boné
+182,Ana Liz Fogaça,69,Londres,1ª Classe,333.92,10,11,Carteira
+183,Emanuelly Sales,68,Londres,3ª Classe,168.65,12,14,Carteira
+184,Cauã Castro,65,Roma,3ª Classe,65.69,11,13,Boné
+185,Enzo Leão,41,Madri,3ª Classe,63.44,18,19,Faca
+186,Maria Eduarda Freitas,20,Madri,2ª Classe,234.44,10,11,Bastão de Caminhada
+187,Natália Moura,43,Roma,3ª Classe,62.9,21,23,Carteira
+188,Sra. Eduarda Alves,23,Berlim,3ª Classe,82.68,12,14,Chocolate
+189,Lucas Gabriel Silva,55,Madri,3ª Classe,169.34,19,21,Boné
+190,Vicente Fernandes,56,Roma,1ª Classe,398.62,11,12,Boné
+191,Maria Flor Pacheco,32,Roma,2ª Classe,415.44,16,18,Chocolate
+192,Luiz Gustavo da Conceição,38,Roma,2ª Classe,335.9,15,16,Chocolate
+193,Srta. Catarina Rios,48,Paris,1ª Classe,417.57,11,13,Carteira
+194,Mirella da Rosa,65,Berlim,1ª Classe,282.62,19,21,Chocolate
+195,Lorena Porto,44,Berlim,3ª Classe,471.15,16,17,Bengala
+196,Marina Pinto,56,Berlim,2ª Classe,60.76,18,19,Carteira
+197,Sr. Ryan da Luz,48,Londres,1ª Classe,181.56,18,20,Carteira
+198,Nicolas Lima,35,Madri,1ª Classe,405.54,18,19,Chocolate
+199,Luara Câmara,60,Berlim,1ª Classe,98.4,21,23,Celular
+200,Davi Gonçalves,40,Paris,1ª Classe,436.23,19,21,Carteira
+201,Gael Ribeiro,65,Paris,1ª Classe,375.59,13,15,Boné
+202,Marina Teixeira,39,Londres,2ª Classe,162.7,15,16,Celular
+203,Sr. Gael Henrique da Rocha,27,Londres,3ª Classe,34.38,11,13,Boné
+204,Carolina Costela,45,Roma,3ª Classe,226.6,14,15,Celular
+205,João Marques,25,Berlim,2ª Classe,64.34,20,22,Boné
+206,João Pedro Pacheco,37,Paris,1ª Classe,203.68,19,20,Carteira
+207,Maria Vitória Vasconcelos,37,Londres,1ª Classe,384.44,14,16,Carteira
+208,Ana Sophia Viana,49,Roma,1ª Classe,73.3,18,19,Boné
+209,Sr. Thomas Moura,60,Berlim,1ª Classe,204.56,21,22,Boné
+210,Luna Vieira,47,Paris,2ª Classe,292.12,19,21,Chocolate
+211,Maria Alice Rocha,44,Berlim,1ª Classe,208.47,15,16,Celular
+212,Miguel Cavalcanti,57,Roma,3ª Classe,460.69,11,13,Celular
+213,Danilo da Conceição,33,Roma,3ª Classe,206.22,11,13,Celular
+214,Luiz Fernando Martins,65,Berlim,1ª Classe,173.2,12,13,Boné
+215,Eloah Vieira,25,Madri,3ª Classe,105.01,22,24,Jornal
+216,Théo Campos,70,Londres,1ª Classe,60.37,14,15,Carteira
+217,Brenda Silva,27,Paris,1ª Classe,476.13,20,22,Boné
+218,Ana Júlia da Mata,54,Madri,2ª Classe,343.76,19,21,Celular
+219,Pietra Jesus,58,Berlim,1ª Classe,225.48,17,19,Chocolate
+220,Melina Teixeira,68,Berlim,3ª Classe,37.52,18,19,Jornal
+221,Srta. Sara Cirino,46,Paris,1ª Classe,190.68,14,15,Chocolate
+222,João Felipe Carvalho,23,Madri,3ª Classe,258.46,17,18,Boné
+223,Sr. Benjamim Pacheco,69,Madri,3ª Classe,102.24,19,21,Boné
+224,Calebe Camargo,21,Roma,1ª Classe,407.37,15,16,Boné
+225,Arthur Miguel Rocha,29,Paris,1ª Classe,356.73,17,18,Jornal
+226,Júlia Viana,36,Roma,2ª Classe,389.49,20,21,Celular
+227,João Vitor Santos,59,Berlim,1ª Classe,171.55,18,20,Jornal
+228,Benjamim Caldeira,64,Madri,1ª Classe,173.35,19,20,Celular
+229,Luiz Gustavo Albuquerque,37,Roma,1ª Classe,301.57,11,13,Boné
+230,Ana Vitória Nogueira,59,Berlim,1ª Classe,338.36,21,22,Chocolate
+231,Heitor Almeida,45,Madri,2ª Classe,18.93,14,15,Faca
+232,Nathan Melo,39,Roma,1ª Classe,121.01,12,13,Carteira
+233,Sr. Pedro Lucas da Mata,68,Paris,3ª Classe,387.73,21,22,Chocolate
+234,Rebeca Fonseca,67,Madri,1ª Classe,302.65,12,13,Carteira
+235,Henry Gabriel Guerra,62,Madri,1ª Classe,363.38,10,12,Jornal
+236,Cauã Teixeira,64,Londres,2ª Classe,309.19,22,24,Jornal
+237,Enzo Fogaça,33,Berlim,2ª Classe,452.95,13,15,Chocolate
+238,Vicente Aragão,54,Roma,2ª Classe,387.02,22,24,Boné
+239,Dr. Gael Henrique da Cunha,44,Londres,1ª Classe,402.62,12,14,Carteira
+240,Ana Beatriz Martins,48,Berlim,3ª Classe,467.8,21,22,Jornal
+241,Lorena Leão,66,Londres,2ª Classe,230.17,18,19,Celular
+242,Fernando Sales,23,Londres,2ª Classe,443.47,10,12,Carteira
+243,Sophia Pacheco,50,Berlim,1ª Classe,199.22,11,13,Jornal
+244,João Miguel Borges,38,Paris,3ª Classe,328.48,22,23,Carteira
+245,Enzo Câmara,36,Roma,3ª Classe,417.24,22,24,Boné
+246,Arthur Miguel Farias,18,Paris,1ª Classe,135.4,12,14,Carteira
+247,Sr. Bento Correia,36,Londres,2ª Classe,69.71,13,15,Chocolate
+248,Léo Pimenta,57,Roma,1ª Classe,64.32,17,18,Chocolate
+249,Diego Guerra,54,Londres,3ª Classe,80.35,16,17,Chocolate
+250,Sr. Vinícius Moreira,33,Madri,2ª Classe,101.78,20,21,Boné
+251,Felipe Pires,41,Paris,3ª Classe,276.6,22,23,Boné
+252,Nicolas Brito,48,Paris,3ª Classe,199.57,15,17,Chocolate
+253,Maitê Carvalho,40,Paris,2ª Classe,128.15,20,21,Celular
+254,Dra. Julia Fonseca,65,Berlim,1ª Classe,31.72,18,20,Celular
+255,Amanda da Luz,29,Roma,3ª Classe,244.48,12,13,Carteira
+256,Luna Araújo,67,Roma,1ª Classe,153.79,10,11,Celular
+257,Eloah Farias,38,Berlim,3ª Classe,205.13,18,20,Jornal
+258,Maria Luiza da Costa,66,Londres,2ª Classe,184.92,22,23,Celular
+259,Dr. Benjamin Aparecida,39,Berlim,1ª Classe,401.68,16,18,Chocolate
+260,Dra. Gabriela Santos,42,Berlim,1ª Classe,253.14,17,19,Celular
+261,Maria Alice Azevedo,51,Berlim,1ª Classe,366.27,11,13,Chocolate
+262,Natália Cunha,70,Londres,3ª Classe,153.95,11,12,Jornal
+263,Isabella Almeida,36,Berlim,2ª Classe,305.28,16,17,Chocolate
+264,Benjamim Santos,40,Roma,1ª Classe,366.14,15,17,Jornal
+265,Dr. Calebe Câmara,68,Paris,1ª Classe,338.88,16,18,Boné
+266,Maitê Santos,65,Londres,1ª Classe,79.96,19,21,Carteira
+267,Maria Luiza Câmara,22,Londres,3ª Classe,189.5,16,17,Chocolate
+268,Benício da Costa,61,Roma,2ª Classe,192.29,22,23,Chocolate
+269,Eloah Oliveira,51,Berlim,2ª Classe,164.05,14,15,Faca
+270,Eloah Albuquerque,19,Londres,2ª Classe,263.7,18,19,Jornal
+271,Sophia Costa,34,Roma,1ª Classe,498.22,14,16,Jornal
+272,Laura Campos,26,Paris,2ª Classe,94.6,21,23,Bastão de Caminhada
+273,Bruna Silveira,69,Berlim,3ª Classe,180.24,11,13,Celular
+274,Cauê Camargo,28,Londres,2ª Classe,259.29,11,12,Celular
+275,João Vitor Monteiro,33,Roma,1ª Classe,186.84,19,21,Boné
+276,Caleb da Mota,53,Londres,3ª Classe,443.28,11,13,Boné
+277,Henrique Moura,63,Roma,3ª Classe,211.29,16,17,Carteira
+278,Srta. Brenda Silveira,38,Paris,2ª Classe,238.26,18,20,Carteira
+279,Srta. Stella Farias,67,Madri,3ª Classe,298.02,22,23,Boné
+280,Maria Clara da Rosa,21,Paris,3ª Classe,84.98,12,13,Jornal
+281,Maitê Pastor,63,Londres,2ª Classe,474.27,18,20,Celular
+282,Thiago Teixeira,34,Londres,3ª Classe,478.61,14,15,Chocolate
+283,Mirella Gonçalves,57,Madri,1ª Classe,256.26,12,13,Carteira
+284,Levi Martins,57,Madri,2ª Classe,422.84,19,20,Celular
+285,Josué Farias,19,Paris,1ª Classe,474.79,22,24,Chocolate
+286,Sr. Alexandre Peixoto,67,Madri,2ª Classe,312.87,10,12,Celular
+287,Joaquim Abreu,52,Berlim,3ª Classe,478.76,17,18,Celular
+288,Leandro Novais,61,Roma,2ª Classe,232.24,21,22,Carteira
+289,Mariane Moraes,44,Roma,2ª Classe,109.97,19,20,Jornal
+290,Dr. João Felipe Cassiano,63,Berlim,3ª Classe,494.13,15,17,Carteira
+291,Josué Martins,41,Madri,3ª Classe,62.03,13,15,Carteira
+292,Dr. Vinícius Moraes,46,Londres,1ª Classe,57.44,14,16,Celular
+293,Leandro Abreu,44,Londres,1ª Classe,408.6,19,21,Jornal
+294,Srta. Lara Marques,28,Roma,3ª Classe,238.74,14,16,Carteira
+295,Gustavo Henrique da Mata,43,Madri,2ª Classe,483.68,13,15,Carteira
+296,Isabelly Sales,36,Roma,3ª Classe,442.35,20,22,Jornal
+297,Sr. Ravi Lucca Abreu,18,Paris,2ª Classe,75.63,14,16,Celular
+298,Benicio Ramos,41,Paris,2ª Classe,35.07,18,19,Jornal
+299,Srta. Julia Pires,36,Paris,2ª Classe,257.09,22,24,Celular
+300,Ana Rocha,57,Madri,1ª Classe,73.05,11,13,Jornal
+301,Paulo Caldeira,39,Madri,2ª Classe,379.93,13,15,Boné
+302,Ana Sophia Moura,20,Paris,1ª Classe,359.66,22,24,Boné
+303,Gustavo Henrique Araújo,27,Madri,3ª Classe,78.49,19,21,Carteira
+304,Arthur Miguel Lopes,57,Berlim,3ª Classe,174.82,18,20,Chocolate
+305,Gael Henrique Campos,37,Roma,1ª Classe,190.5,20,21,Bengala
+306,Emanuel Rios,55,Berlim,3ª Classe,437.33,20,21,Chocolate
+307,Ana Beatriz Cassiano,34,Madri,3ª Classe,121.5,10,12,Carteira
+308,Pedro Miguel Pires,58,Madri,2ª Classe,82.41,20,21,Carteira
+309,Ana Clara da Paz,62,Paris,1ª Classe,19.28,15,17,Carteira
+310,Dra. Laura Caldeira,62,Londres,2ª Classe,255.89,19,21,Celular
+311,Gabriela Peixoto,65,Paris,3ª Classe,77.66,13,15,Bastão de Caminhada
+312,Pietra Nunes,48,Madri,2ª Classe,163.74,12,14,Celular
+313,Lorena Gomes,39,Madri,2ª Classe,341.18,21,23,Chocolate
+314,Vitor Mendonça,30,Londres,2ª Classe,283.46,13,15,Celular
+315,Bruno Rocha,63,Londres,3ª Classe,355.44,15,17,Jornal
+316,Srta. Melina Silveira,68,Berlim,2ª Classe,69.72,20,22,Celular
+317,Sr. Antônio Novais,43,Berlim,1ª Classe,152.32,14,15,Jornal
+318,João Leão,46,Berlim,3ª Classe,244.75,13,15,Celular
+319,Thiago Azevedo,62,Berlim,1ª Classe,63.52,21,22,Jornal
+320,Ravi Ferreira,60,Madri,1ª Classe,322.59,10,11,Boné
+321,Maria Júlia Fernandes,63,Roma,1ª Classe,343.78,12,13,Bengala
+322,Júlia Macedo,28,Roma,3ª Classe,468.17,17,19,Chocolate
+323,Joana Peixoto,66,Berlim,2ª Classe,149.85,10,11,Chocolate
+324,Dr. Diogo da Mota,32,Madri,3ª Classe,364.33,10,11,Boné
+325,Dra. Maria Luísa Oliveira,29,Paris,2ª Classe,396.1,12,14,Celular
+326,Samuel Camargo,18,Berlim,3ª Classe,305.36,15,17,Boné
+327,Vitor Freitas,59,Madri,3ª Classe,252.02,12,14,Jornal
+328,Srta. Antonella Aparecida,69,Paris,2ª Classe,89.62,17,19,Chocolate
+329,Dr. Vitor Gabriel Campos,18,Berlim,2ª Classe,288.21,22,23,Carteira
+330,Dr. Pedro Santos,58,Roma,2ª Classe,262.49,11,13,Chocolate
+331,Srta. Alexia Rezende,29,Londres,2ª Classe,168.56,13,14,Jornal
+332,Maria Cecília da Conceição,33,Roma,2ª Classe,477.48,14,15,Jornal
+333,Sarah das Neves,41,Londres,1ª Classe,337.22,17,19,Carteira
+334,Helena da Mata,61,Madri,3ª Classe,387.22,21,22,Chocolate
+335,Cecilia Rezende,36,Berlim,3ª Classe,118.22,12,14,Carteira
+336,Lunna Leão,65,Madri,2ª Classe,213.76,18,20,Celular
+337,Fernanda das Neves,69,Londres,1ª Classe,343.37,19,20,Boné
+338,Alexandre da Cunha,51,Berlim,1ª Classe,459.45,11,12,Celular
+339,Vitor Gabriel da Rosa,50,Londres,3ª Classe,272.96,12,14,Celular
+340,Kevin da Cruz,46,Paris,3ª Classe,110.65,19,21,Carteira
+341,Daniel Lopes,50,Roma,1ª Classe,232.18,18,20,Boné
+342,Leandro Costela,21,Madri,2ª Classe,339.66,14,15,Boné
+343,Ana Laura Castro,70,Paris,3ª Classe,116.77,11,12,Boné
+344,Maria Clara Barbosa,62,Paris,3ª Classe,497.12,11,13,Carteira
+345,Calebe Abreu,44,Londres,1ª Classe,385.26,21,23,Jornal
+346,Fernanda Cirino,42,Roma,2ª Classe,194.07,20,21,Chocolate
+347,Sara Pacheco,40,Paris,1ª Classe,496.49,16,17,Chocolate
+348,Maria Vitória Campos,32,Paris,1ª Classe,489.46,17,19,Boné
+349,Dra. Alice Mendes,70,Londres,1ª Classe,235.71,12,14,Carteira
+350,Ravy Pires,64,Paris,1ª Classe,406.64,16,17,Jornal
+351,Cauê Silveira,22,Paris,3ª Classe,26.45,19,20,Jornal
+352,Sra. Laura da Paz,20,Roma,2ª Classe,124.83,13,14,Carteira
+353,Ryan Aparecida,36,Londres,3ª Classe,292.29,19,21,Jornal
+354,Valentina Freitas,27,Madri,1ª Classe,212.64,14,15,Boné
+355,Sr. Liam Vargas,55,Londres,3ª Classe,342.59,18,20,Carteira
+356,Eloah Moreira,40,Roma,3ª Classe,166.18,16,18,Carteira
+357,Lunna da Rosa,42,Londres,3ª Classe,242.02,13,15,Celular
+358,João Pedro Borges,27,Roma,1ª Classe,285.57,16,17,Boné
+359,Anthony Sá,34,Londres,2ª Classe,326.89,17,19,Carteira
+360,Dra. Ana Júlia Abreu,64,Londres,1ª Classe,141.55,20,21,Celular
+361,João Gabriel Cirino,30,Madri,3ª Classe,339.01,13,15,Jornal
+362,Caleb Mendonça,39,Berlim,1ª Classe,113.79,13,14,Chocolate
+363,Ryan Camargo,66,Roma,1ª Classe,350.86,21,22,Boné
+364,Ravi Lucca Teixeira,33,Madri,2ª Classe,390.0,16,18,Boné
+365,Mateus Barros,40,Berlim,2ª Classe,186.23,17,19,Carteira
+366,Gabriel da Luz,64,Roma,2ª Classe,458.02,15,17,Boné
+367,Carolina Moreira,54,Londres,3ª Classe,81.5,14,16,Jornal
+368,Lucas Gabriel Nogueira,30,Berlim,1ª Classe,196.12,13,15,Boné
+369,Caleb Martins,61,Berlim,2ª Classe,384.05,17,19,Boné
+370,Luiz Miguel Monteiro,64,Berlim,1ª Classe,78.58,18,20,Carteira
+371,Bianca Leão,52,Paris,3ª Classe,26.57,11,12,Celular
+372,Sr. Kevin da Costa,44,Londres,3ª Classe,123.4,21,22,Carteira
+373,Dr. Benício Andrade,50,Roma,2ª Classe,39.62,20,22,Chocolate
+374,Heitor Guerra,19,Paris,3ª Classe,280.31,10,11,Boné
+375,Rael Campos,35,Madri,2ª Classe,18.4,21,23,Celular
+376,Davi Lucca Silveira,29,Paris,1ª Classe,266.95,13,14,Chocolate
+377,Kamilly Lima,34,Berlim,2ª Classe,399.52,11,13,Faca
+378,Arthur Miguel Almeida,47,Madri,1ª Classe,495.21,13,15,Chocolate
+379,Luiz Fernando Pimenta,23,Paris,1ª Classe,208.59,16,18,Carteira
+380,Heloisa Pastor,18,Londres,1ª Classe,254.93,16,18,Boné
+381,Miguel Macedo,24,Madri,1ª Classe,122.59,21,23,Jornal
+382,João Pedro Aparecida,22,Berlim,3ª Classe,286.12,10,11,Celular
+383,Guilherme Araújo,38,Paris,1ª Classe,297.65,22,24,Celular
+384,Carolina Freitas,37,Londres,3ª Classe,127.83,16,18,Boné
+385,Alexandre Casa Grande,65,Londres,3ª Classe,364.84,18,20,Carteira
+386,Bernardo Sales,45,Londres,1ª Classe,176.89,22,24,Bengala
+387,Marina Gonçalves,38,Paris,3ª Classe,143.93,17,19,Jornal
+388,Eloah da Paz,53,Roma,2ª Classe,101.01,19,21,Carteira
+389,Benicio da Cruz,57,Berlim,1ª Classe,359.42,11,13,Carteira
+390,Vitor Hugo Machado,63,Londres,3ª Classe,200.91,15,16,Carteira
+391,Natália Nascimento,37,Roma,2ª Classe,383.06,11,12,Carteira
+392,José Miguel Ribeiro,45,Roma,3ª Classe,281.82,16,17,Carteira
+393,Ana Cecília Leão,40,Madri,1ª Classe,302.49,22,24,Celular
+394,Benício Nogueira,18,Berlim,2ª Classe,200.02,11,12,Chocolate
+395,Alexia Sampaio,28,Roma,1ª Classe,78.03,14,16,Boné
+396,Oliver Pastor,22,Londres,2ª Classe,145.22,14,16,Celular
+397,Pedro Sampaio,41,Berlim,1ª Classe,363.24,17,18,Boné
+398,Ayla Carvalho,26,Berlim,1ª Classe,474.92,15,17,Celular
+399,Nicolas Machado,39,Roma,2ª Classe,221.0,20,21,Jornal
+400,Vitória Câmara,56,Londres,2ª Classe,163.95,16,18,Jornal
+401,Ísis das Neves,62,Roma,3ª Classe,393.17,15,17,Jornal
+402,Carlos Eduardo Oliveira,68,Roma,2ª Classe,65.81,19,20,Chocolate
+403,Eduardo Souza,52,Londres,3ª Classe,386.13,10,12,Celular
+404,Miguel Macedo,31,Roma,2ª Classe,417.33,11,13,Chocolate
+405,Bella Andrade,26,Berlim,1ª Classe,133.81,12,14,Celular
+406,José Barros,22,Roma,3ª Classe,244.83,16,18,Boné
+407,Kevin Costa,68,Berlim,3ª Classe,448.8,18,19,Carteira
+408,Maysa Andrade,33,Berlim,1ª Classe,327.03,10,12,Bengala
+409,Caio Sales,39,Roma,1ª Classe,15.17,14,15,Boné
+410,Srta. Milena Castro,51,Madri,3ª Classe,346.96,13,15,Jornal
+411,Srta. Hellena Silva,47,Madri,3ª Classe,255.23,15,16,Boné
+412,Dr. Francisco Lima,36,Roma,1ª Classe,66.87,21,22,Jornal
+413,Mirella Nunes,39,Roma,1ª Classe,265.35,15,17,Carteira
+414,Nicolas Moraes,64,Roma,2ª Classe,42.92,10,11,Carteira
+415,Julia Barros,39,Paris,3ª Classe,402.02,21,22,Boné
+416,Sr. Valentim da Mata,53,Londres,2ª Classe,284.33,17,18,Celular
+417,Olívia Gonçalves,58,Londres,1ª Classe,323.83,16,18,Carteira
+418,Sara Albuquerque,57,Londres,2ª Classe,300.18,16,17,Chocolate
+419,Josué Jesus,31,Berlim,3ª Classe,406.28,11,12,Celular
+420,Thiago Farias,52,Londres,2ª Classe,169.73,17,18,Jornal
+421,Maitê Campos,49,Madri,3ª Classe,163.57,16,18,Chocolate
+422,Vitor Gabriel Ribeiro,40,Berlim,2ª Classe,312.51,20,22,Celular
+423,Laura da Paz,55,Paris,3ª Classe,75.63,11,12,Jornal
+424,Otto Novaes,29,Berlim,3ª Classe,79.27,16,18,Chocolate
+425,Maria Cecília da Mota,54,Roma,2ª Classe,101.02,20,21,Boné
+426,Luana das Neves,49,Berlim,1ª Classe,101.68,17,18,Celular
+427,Yago Nogueira,18,Roma,1ª Classe,105.61,16,18,Boné
+428,Paulo Martins,49,Roma,3ª Classe,421.55,17,18,Carteira
+429,Dr. Bernardo Sampaio,19,Londres,2ª Classe,26.02,13,15,Carteira
+430,Diogo da Rosa,47,Madri,3ª Classe,388.55,17,18,Chocolate
+431,Otávio Alves,35,Madri,2ª Classe,275.6,22,23,Celular
+432,Lucas Cardoso,46,Madri,1ª Classe,494.99,11,12,Jornal
+433,Igor Araújo,20,Roma,2ª Classe,180.8,11,13,Celular
+434,Laís Duarte,25,Londres,1ª Classe,407.24,19,21,Celular
+435,Dr. Bruno Rezende,57,Roma,1ª Classe,311.91,22,23,Celular
+436,Dra. Maria Laura Pacheco,69,Paris,3ª Classe,181.9,14,15,Jornal
+437,Sr. Yan Leão,63,Berlim,2ª Classe,290.64,18,19,Carteira
+438,Sra. Mirella da Cunha,66,Roma,1ª Classe,496.32,20,21,Chocolate
+439,José Miguel da Mata,26,Londres,1ª Classe,358.58,13,15,Boné
+440,Dr. Oliver da Costa,54,Berlim,3ª Classe,212.97,17,18,Chocolate
+441,Dr. Lucas Borges,67,Paris,2ª Classe,262.65,14,16,Boné
+442,Vitor Gabriel Ribeiro,49,Berlim,3ª Classe,11.21,22,23,Chocolate
+443,Ana Liz Peixoto,47,Berlim,1ª Classe,399.88,16,17,Bengala
+444,Dra. Melissa Pinto,70,Londres,2ª Classe,141.58,14,16,Boné
+445,Ana Clara Macedo,26,Madri,2ª Classe,396.27,20,21,Carteira
+446,Levi Farias,58,Roma,1ª Classe,70.88,12,14,Boné
+447,Ayla Albuquerque,45,Londres,3ª Classe,455.61,20,22,Carteira
+448,Amanda Cavalcante,35,Paris,3ª Classe,186.61,11,13,Chocolate
+449,Clara Albuquerque,59,Londres,1ª Classe,204.21,14,15,Boné
+450,Dr. Pedro Miguel Ferreira,23,Paris,1ª Classe,114.58,11,12,Chocolate
+451,Srta. Cecília Sá,51,Roma,1ª Classe,13.95,15,16,Bastão de Caminhada
+452,Liz da Mota,45,Londres,2ª Classe,44.71,16,17,Chocolate
+453,Marina Garcia,24,Paris,2ª Classe,190.11,14,15,Boné
+454,Bruna Rios,70,Londres,3ª Classe,496.54,12,13,Boné
+455,Esther Moura,18,Madri,3ª Classe,90.42,15,16,Chocolate
+456,Vitória Cavalcante,27,Roma,3ª Classe,346.42,13,14,Celular
+457,Letícia Rocha,26,Paris,3ª Classe,367.7,15,17,Jornal
+458,Ana Liz Campos,26,Londres,2ª Classe,325.86,13,15,Celular
+459,João Gabriel Lopes,62,Paris,3ª Classe,439.16,13,14,Chocolate
+460,Davi Lucca Cavalcanti,36,Paris,1ª Classe,252.49,11,12,Boné
+461,Catarina Guerra,56,Paris,3ª Classe,445.48,10,12,Celular
+462,Matheus Campos,26,Roma,3ª Classe,216.22,18,19,Celular
+463,Juliana Siqueira,67,Paris,1ª Classe,297.81,10,12,Jornal
+464,Ísis Aragão,21,Roma,3ª Classe,150.38,21,23,Boné
+465,Laís Oliveira,43,Paris,3ª Classe,272.92,19,20,Jornal
+466,Dra. Mariane Alves,37,Paris,3ª Classe,461.25,22,23,Boné
+467,Marcela Cunha,43,Madri,3ª Classe,383.98,20,21,Jornal
+468,Srta. Julia Fernandes,45,Londres,1ª Classe,129.8,16,17,Boné
+469,Thomas da Mata,56,Paris,2ª Classe,336.38,20,21,Carteira
+470,Melina Silva,63,Londres,3ª Classe,15.56,17,19,Boné
+471,Gael Camargo,68,Berlim,1ª Classe,192.22,21,23,Chocolate
+472,Yago da Cunha,25,Paris,2ª Classe,405.48,14,15,Jornal
+473,Dr. Bento Farias,54,Paris,2ª Classe,233.05,15,16,Boné
+474,Ester Almeida,54,Londres,2ª Classe,87.08,22,23,Celular
+475,Maitê Sampaio,61,Paris,1ª Classe,372.98,10,11,Celular
+476,Otávio Vieira,18,Londres,1ª Classe,241.16,16,17,Carteira
+477,Yan Sousa,20,Madri,3ª Classe,372.93,16,17,Jornal
+478,Ana Luiza Leão,44,Berlim,2ª Classe,414.74,19,21,Carteira
+479,Marcela Ribeiro,61,Paris,1ª Classe,119.36,18,19,Faca
+480,Marcela Camargo,22,Roma,2ª Classe,389.03,14,16,Carteira
+481,João Felipe Rios,47,Paris,2ª Classe,108.33,19,21,Chocolate
+482,Maria Vitória Caldeira,33,Roma,2ª Classe,299.93,17,18,Chocolate
+483,Maria Silva,52,Londres,1ª Classe,13.13,16,17,Jornal
+484,Davi Viana,40,Paris,2ª Classe,10.72,20,22,Celular
+485,João Pedro Sousa,64,Berlim,1ª Classe,110.55,13,15,Boné
+486,Gabriel Oliveira,21,Londres,3ª Classe,147.11,10,11,Celular
+487,Pietra Farias,51,Roma,3ª Classe,448.83,17,18,Chocolate
+488,Benjamin Oliveira,50,Londres,3ª Classe,411.78,11,12,Boné
+489,Gabrielly Pinto,26,Londres,2ª Classe,137.89,15,17,Chocolate
+490,André Moraes,65,Berlim,2ª Classe,231.85,13,14,Faca
+491,Pedro Miguel Silveira,26,Madri,1ª Classe,86.15,12,14,Boné
+492,Mariane Porto,44,Paris,3ª Classe,185.56,22,23,Boné
+493,Pietro Moura,47,Berlim,1ª Classe,54.31,22,24,Celular
+494,Heloísa Cardoso,62,Madri,1ª Classe,115.36,15,16,Carteira
+495,Jade Pereira,33,Berlim,2ª Classe,261.6,20,22,Jornal
+496,Ana Liz Correia,29,Paris,2ª Classe,428.75,18,19,Carteira
+497,Bento Ramos,24,Londres,1ª Classe,15.86,22,23,Carteira
+498,Yasmin da Luz,70,Roma,2ª Classe,346.28,20,21,Chocolate
+499,Julia Fernandes,34,Paris,1ª Classe,498.61,13,15,Celular
+500,Ravi Lucca da Rosa,23,Berlim,1ª Classe,30.92,17,18,Carteira
+501,José Carvalho,54,Roma,3ª Classe,203.55,10,12,Chocolate
+502,Sr. Dante Montenegro,29,Berlim,1ª Classe,455.07,14,16,Boné
+503,Maya Almeida,27,Paris,3ª Classe,313.4,13,15,Boné
+504,Mirella Ramos,53,Roma,1ª Classe,52.98,16,17,Boné
+505,Allana Martins,59,Madri,1ª Classe,319.07,22,23,Bastão de Caminhada
+506,Cecilia Porto,68,Berlim,2ª Classe,276.81,17,19,Celular
+507,Fernando Cunha,50,Berlim,2ª Classe,142.51,10,12,Chocolate
+508,Ana Lívia Nascimento,19,Berlim,1ª Classe,406.24,17,19,Celular
+509,Sr. Kaique Farias,32,Londres,1ª Classe,131.45,13,15,Boné
+510,Benício Souza,68,Paris,1ª Classe,292.09,22,24,Jornal
+511,Antonella Gomes,29,Londres,1ª Classe,300.33,22,24,Celular
+512,Marcos Vinicius Mendonça,19,Berlim,3ª Classe,286.17,19,20,Celular
+513,Sr. Dom Guerra,69,Roma,3ª Classe,161.44,17,18,Carteira
+514,Benjamin Vargas,32,Madri,1ª Classe,19.76,17,18,Jornal
+515,Breno Macedo,57,Londres,1ª Classe,176.97,12,14,Carteira
+516,Sra. Milena Barbosa,27,Madri,3ª Classe,459.44,22,23,Celular
+517,Maitê Rios,41,Paris,2ª Classe,355.22,20,22,Chocolate
+518,Vitória Jesus,39,Berlim,2ª Classe,76.86,12,14,Celular
+519,Marcela Cavalcanti,49,Berlim,1ª Classe,356.52,18,20,Jornal
+520,Ana Clara Cassiano,55,Londres,2ª Classe,160.34,21,23,Carteira
+521,Sr. Mathias da Conceição,64,Paris,3ª Classe,474.86,16,17,Carteira
+522,Sr. Noah Cavalcante,38,Madri,1ª Classe,323.43,11,13,Carteira
+523,Stephany Cardoso,65,Paris,1ª Classe,179.94,15,16,Chocolate
+524,Ana Vitória Rocha,23,Berlim,2ª Classe,15.58,13,14,Chocolate
+525,Cauã Novaes,40,Berlim,1ª Classe,363.0,10,12,Boné
+526,Helena Fogaça,44,Londres,2ª Classe,251.61,16,18,Boné
+527,Sr. Cauã Duarte,24,Roma,3ª Classe,328.98,20,21,Carteira
+528,Emanuella Costela,22,Paris,2ª Classe,19.84,14,15,Carteira
+529,Gael Henrique Silva,28,Roma,1ª Classe,368.67,18,19,Jornal
+530,Elisa Sá,57,Roma,3ª Classe,25.19,20,21,Chocolate
+531,Cauê Nogueira,45,Londres,1ª Classe,59.62,13,14,Boné
+532,Anthony da Paz,53,Madri,2ª Classe,333.69,14,15,Carteira
+533,Maria Júlia Moraes,43,Madri,3ª Classe,421.53,12,13,Jornal
+534,Dra. Zoe Fonseca,45,Paris,2ª Classe,413.71,20,22,Jornal
+535,Marina Borges,19,Londres,1ª Classe,322.71,11,13,Celular
+536,Gael Costela,37,Roma,2ª Classe,249.66,20,22,Carteira
+537,Sr. Yan Cassiano,52,Roma,1ª Classe,191.8,16,18,Carteira
+538,João Miguel Aragão,20,Berlim,2ª Classe,237.88,13,15,Boné
+539,Daniel Gonçalves,27,Paris,1ª Classe,337.39,22,24,Bengala
+540,Théo Teixeira,55,Londres,3ª Classe,39.88,16,18,Bengala
+541,Sr. André Pastor,61,Roma,3ª Classe,442.01,17,19,Carteira
+542,José Vargas,63,Paris,3ª Classe,289.9,18,19,Carteira
+543,Dr. Otávio Ribeiro,66,Roma,1ª Classe,475.04,12,13,Celular
+544,Sarah Pereira,26,Paris,2ª Classe,48.4,20,22,Jornal
+545,Carlos Eduardo Silva,70,Londres,3ª Classe,136.36,21,22,Carteira
+546,Helena Leão,53,Roma,3ª Classe,169.8,14,16,Celular
+547,Ana Vitória Cirino,18,Madri,3ª Classe,266.06,16,17,Boné
+548,Joana Rezende,27,Madri,3ª Classe,295.51,11,12,Boné
+549,Fernanda Gonçalves,24,Berlim,3ª Classe,441.27,16,18,Boné
+550,Rafaela Barros,49,Madri,3ª Classe,241.79,12,14,Boné
+551,Eloah Castro,57,Madri,3ª Classe,349.89,10,12,Celular
+552,Luiz Fernando Farias,39,Londres,1ª Classe,375.42,14,16,Carteira
+553,Sophie Freitas,70,Berlim,2ª Classe,147.37,17,18,Bengala
+554,Enrico Costa,32,Londres,2ª Classe,487.37,17,19,Jornal
+555,Ana Sophia Azevedo,44,Madri,3ª Classe,53.75,17,18,Celular
+556,Ísis Vasconcelos,44,Roma,3ª Classe,434.92,10,11,Carteira
+557,Sra. Raquel Moura,63,Madri,2ª Classe,76.47,18,19,Carteira
+558,Fernanda da Costa,30,Paris,1ª Classe,26.2,10,12,Chocolate
+559,Gabriela Cunha,35,Berlim,2ª Classe,257.51,20,21,Chocolate
+560,Gabriela das Neves,33,Berlim,2ª Classe,301.08,12,14,Chocolate
+561,Vinícius Campos,40,Berlim,1ª Classe,420.45,14,15,Jornal
+562,Srta. Liz Martins,42,Paris,1ª Classe,428.37,22,23,Celular
+563,Maria Luísa Pastor,59,Londres,3ª Classe,111.3,20,22,Boné
+564,Fernanda Silva,67,Paris,2ª Classe,456.64,20,21,Chocolate
+565,Anthony Fogaça,18,Londres,2ª Classe,308.09,14,16,Boné
+566,Sra. Maria Sales,42,Berlim,2ª Classe,133.48,17,19,Chocolate
+567,Dr. Diego Machado,70,Madri,2ª Classe,296.4,10,12,Boné
+568,Miguel Machado,56,Madri,2ª Classe,156.25,11,13,Carteira
+569,Gael Henrique Fogaça,35,Berlim,2ª Classe,137.96,21,23,Carteira
+570,Arthur Miguel Machado,51,Londres,1ª Classe,404.66,22,24,Chocolate
+571,Sr. Heitor da Luz,61,Londres,3ª Classe,22.47,17,19,Jornal
+572,Vitor da Luz,44,Roma,2ª Classe,371.0,19,20,Jornal
+573,Noah Nogueira,63,Londres,3ª Classe,271.97,22,24,Celular
+574,Srta. Olivia Sousa,60,Berlim,3ª Classe,157.1,12,13,Jornal
+575,Melissa Sá,48,Londres,3ª Classe,136.74,22,23,Faca
+576,Dom Vieira,39,Paris,1ª Classe,184.09,21,23,Boné
+577,Gabriel Freitas,39,Berlim,2ª Classe,296.93,17,18,Boné
+578,Alexia Dias,58,Madri,3ª Classe,472.71,11,13,Celular
+579,Stephany Nunes,50,Paris,3ª Classe,197.02,14,16,Carteira
+580,Enzo Gabriel Cunha,27,Londres,1ª Classe,177.91,19,21,Carteira
+581,Raquel Teixeira,63,Londres,1ª Classe,248.91,20,21,Jornal
+582,Vitor Gabriel Siqueira,21,Paris,2ª Classe,144.03,22,23,Chocolate
+583,Valentim da Rosa,28,Roma,1ª Classe,73.41,16,18,Boné
+584,Sr. Diego Camargo,48,Roma,1ª Classe,28.49,13,15,Faca
+585,Maya Nogueira,38,Madri,1ª Classe,18.78,10,11,Jornal
+586,Breno Barbosa,40,Berlim,1ª Classe,60.33,18,20,Carteira
+587,Benício Garcia,70,Paris,2ª Classe,474.75,17,19,Boné
+588,Otávio Porto,61,Londres,2ª Classe,498.11,17,19,Chocolate
+589,Gael da Costa,28,Roma,1ª Classe,121.92,21,22,Jornal
+590,Dra. Liz Sampaio,19,Madri,3ª Classe,92.8,15,16,Jornal
+591,Dra. Maria Alice Câmara,58,Berlim,3ª Classe,315.34,19,20,Chocolate
+592,Allana Lima,59,Paris,1ª Classe,347.98,16,18,Boné
+593,Leandro Jesus,53,Berlim,2ª Classe,353.92,13,14,Jornal
+594,Enrico Farias,60,Paris,3ª Classe,264.95,19,20,Boné
+595,Bernardo Rocha,24,Madri,3ª Classe,312.67,14,15,Celular
+596,Ester Araújo,49,Londres,3ª Classe,107.88,14,15,Jornal
+597,Vitor Hugo Costa,44,Berlim,1ª Classe,29.31,17,18,Chocolate
+598,Nicole Rezende,48,Berlim,1ª Classe,11.34,20,21,Celular
+599,Pietra Porto,54,Roma,1ª Classe,475.23,22,23,Chocolate
+600,Pedro Miguel Sá,24,Berlim,3ª Classe,123.27,14,16,Boné
+601,Dra. Olívia Siqueira,24,Londres,1ª Classe,427.6,15,17,Boné
+602,Luísa Ribeiro,25,Paris,1ª Classe,14.74,12,13,Jornal
+603,Dra. Isabelly Vasconcelos,46,Madri,2ª Classe,440.45,11,13,Celular
+604,Maitê da Cunha,29,Paris,2ª Classe,206.12,17,19,Celular
+605,Ana Sophia Rios,62,Roma,2ª Classe,327.93,22,23,Carteira
+606,Davi Lucas Freitas,62,Paris,1ª Classe,60.82,19,21,Celular
+607,Srta. Ana Vitória Rezende,61,Roma,1ª Classe,309.55,22,24,Chocolate
+608,Lívia Siqueira,61,Londres,2ª Classe,461.0,11,13,Boné
+609,Theo Viana,22,Berlim,3ª Classe,163.98,21,22,Bengala
+610,Rael Aparecida,60,Berlim,3ª Classe,266.32,21,22,Boné
+611,Liam Ramos,64,Londres,2ª Classe,179.42,20,22,Carteira
+612,Sra. Agatha Jesus,70,Madri,3ª Classe,36.74,20,21,Boné
+613,Evelyn Mendonça,48,Roma,1ª Classe,46.68,17,19,Jornal
+614,Pedro Henrique Garcia,35,Paris,3ª Classe,119.13,20,22,Boné
+615,Ian Sales,33,Paris,2ª Classe,227.65,19,21,Carteira
+616,Felipe Ribeiro,49,Roma,2ª Classe,68.17,17,18,Carteira
+617,Lorenzo Cunha,44,Paris,3ª Classe,279.06,11,13,Celular
+618,Maria Júlia Rocha,53,Londres,3ª Classe,339.02,15,17,Celular
+619,Josué Nogueira,70,Londres,2ª Classe,172.67,22,24,Chocolate
+620,Calebe Aparecida,41,Roma,1ª Classe,57.74,20,21,Carteira
+621,Valentina Souza,40,Berlim,3ª Classe,265.77,21,22,Carteira
+622,Lavínia Dias,28,Roma,1ª Classe,412.7,21,23,Carteira
+623,Eduardo Pastor,57,Londres,1ª Classe,69.17,16,17,Boné
+624,Sra. Amanda Fogaça,68,Londres,3ª Classe,175.59,22,24,Carteira
+625,Joaquim Dias,58,Madri,1ª Classe,388.35,17,19,Chocolate
+626,Sr. Joaquim Borges,50,Londres,2ª Classe,12.13,21,22,Boné
+627,Gael Henrique Aparecida,45,Madri,2ª Classe,462.94,22,23,Chocolate
+628,Isis Sampaio,29,Londres,1ª Classe,199.83,19,21,Boné
+629,Gustavo Henrique Lopes,42,Roma,3ª Classe,458.8,22,23,Jornal
+630,Aylla Sá,39,Berlim,2ª Classe,404.35,12,14,Chocolate
+631,Zoe da Conceição,65,Madri,2ª Classe,423.11,18,20,Chocolate
+632,Dra. Clarice Gonçalves,53,Londres,1ª Classe,112.76,21,23,Chocolate
+633,Lívia da Mota,61,Londres,3ª Classe,328.54,12,14,Chocolate
+634,Marcelo Rezende,66,Berlim,3ª Classe,245.38,19,21,Chocolate
+635,Pedro Miguel Aparecida,52,Berlim,2ª Classe,406.07,18,19,Carteira
+636,Alana Andrade,27,Paris,3ª Classe,37.74,14,15,Bastão de Caminhada
+637,Benjamin da Mota,61,Berlim,1ª Classe,421.3,21,23,Jornal
+638,Henry Almeida,52,Paris,2ª Classe,408.87,11,12,Chocolate
+639,Antônio Sales,53,Roma,1ª Classe,260.35,22,24,Chocolate
+640,Maria Liz Souza,21,Roma,2ª Classe,214.12,22,24,Bengala
+641,Sr. Lucca das Neves,21,Paris,3ª Classe,133.16,19,21,Celular
+642,Olivia Pereira,58,Berlim,3ª Classe,277.84,19,20,Celular
+643,Dra. Julia Cirino,30,Berlim,2ª Classe,96.94,20,21,Carteira
+644,Sophia Moraes,29,Madri,1ª Classe,194.83,16,18,Boné
+645,Dra. Manuella Aparecida,26,Londres,3ª Classe,424.55,10,12,Boné
+646,Camila Almeida,27,Paris,1ª Classe,465.03,19,20,Celular
+647,Sara Cavalcante,58,Madri,3ª Classe,157.57,22,24,Carteira
+648,Ester Pinto,63,Berlim,3ª Classe,117.78,12,13,Celular
+649,Nicolas Sousa,28,Roma,3ª Classe,273.15,11,13,Jornal
+650,Ayla Lopes,31,Berlim,2ª Classe,186.79,13,15,Bastão de Caminhada
+651,Fernanda Ramos,70,Paris,1ª Classe,337.78,17,18,Celular
+652,Enzo Gabriel Dias,57,Madri,1ª Classe,479.86,20,22,Boné
+653,Fernanda da Mota,68,Paris,2ª Classe,135.73,21,23,Carteira
+654,Calebe Teixeira,51,Berlim,3ª Classe,403.38,17,19,Carteira
+655,Bárbara Costela,59,Londres,2ª Classe,261.81,11,12,Bengala
+656,Sr. Thales Caldeira,67,Madri,3ª Classe,13.59,11,12,Chocolate
+657,Yan Jesus,67,Londres,3ª Classe,217.86,11,12,Boné
+658,Marcela Barbosa,62,Roma,3ª Classe,410.21,11,12,Carteira
+659,Yan Ramos,63,Berlim,1ª Classe,52.89,10,11,Celular
+660,Pietra das Neves,53,Paris,3ª Classe,412.59,14,16,Boné
+661,Danilo Almeida,58,Roma,2ª Classe,165.04,16,17,Boné
+662,Bruno Fonseca,59,Madri,1ª Classe,380.42,19,20,Chocolate
+663,Vitor Hugo Cunha,22,Berlim,3ª Classe,62.01,22,24,Chocolate
+664,Augusto Rocha,36,Roma,2ª Classe,203.61,20,21,Boné
+665,Dr. Francisco Nogueira,52,Londres,1ª Classe,375.91,22,24,Faca
+666,Valentim Casa Grande,27,Berlim,3ª Classe,444.62,22,24,Faca
+667,Luan Azevedo,18,Madri,3ª Classe,79.27,10,11,Chocolate
+668,Carolina Pereira,43,Madri,3ª Classe,474.02,14,15,Chocolate
+669,João Guilherme Albuquerque,64,Berlim,1ª Classe,212.2,20,21,Carteira
+670,Bianca Cirino,32,Madri,2ª Classe,105.22,12,13,Celular
+671,Olívia Sá,53,Roma,3ª Classe,279.34,14,15,Jornal
+672,Bernardo das Neves,30,Madri,2ª Classe,476.25,15,16,Chocolate
+673,Heloisa Silveira,33,Paris,2ª Classe,313.56,13,15,Boné
+674,Gabriela Nascimento,39,Madri,3ª Classe,159.78,19,20,Boné
+675,Maria Sophia Vargas,41,Berlim,2ª Classe,92.63,15,16,Celular
+676,Bryan Lopes,63,Roma,2ª Classe,421.65,12,14,Celular
+677,Melissa Barbosa,47,Roma,2ª Classe,389.64,17,18,Carteira
+678,Matteo Nascimento,56,Paris,2ª Classe,430.77,12,13,Jornal
+679,Vitor Azevedo,58,Paris,3ª Classe,46.95,10,11,Celular
+680,Henry Duarte,55,Roma,3ª Classe,114.25,10,12,Boné
+681,Vinicius Cirino,52,Roma,3ª Classe,389.85,15,17,Jornal
+682,Srta. Maria Alice da Cunha,67,Madri,3ª Classe,430.01,12,14,Boné
+683,Ana Júlia Monteiro,23,Roma,2ª Classe,256.06,20,21,Celular
+684,Sr. Guilherme Fernandes,69,Madri,3ª Classe,91.26,18,19,Boné
+685,Dr. Leandro Nogueira,29,Madri,3ª Classe,333.11,12,14,Celular
+686,Dr. Emanuel Araújo,20,Londres,2ª Classe,123.56,14,16,Jornal
+687,Kevin da Mata,60,Londres,3ª Classe,454.79,15,17,Boné
+688,João Guilherme Alves,47,Paris,1ª Classe,490.49,15,16,Chocolate
+689,Asafe Moreira,51,Berlim,3ª Classe,139.02,18,19,Jornal
+690,Manuela Duarte,42,Berlim,3ª Classe,330.13,11,13,Jornal
+691,Gael Costa,32,Madri,2ª Classe,182.92,15,17,Celular
+692,Cecilia Rodrigues,56,Paris,3ª Classe,442.2,17,18,Jornal
+693,Melina da Cunha,50,Berlim,1ª Classe,83.62,12,14,Chocolate
+694,Gustavo Henrique Lima,70,Paris,3ª Classe,122.87,22,24,Chocolate
+695,Sra. Maria Cecília Gomes,48,Roma,2ª Classe,113.24,12,14,Carteira
+696,Dra. Marina Viana,20,Londres,3ª Classe,300.25,12,13,Celular
+697,Gabriela Sá,27,Paris,1ª Classe,136.55,12,14,Chocolate
+698,Ravy Vieira,54,Paris,3ª Classe,366.71,14,15,Jornal
+699,Dra. Maria Sophia da Mata,56,Roma,2ª Classe,93.58,16,17,Celular
+700,Maria Alice Almeida,70,Londres,3ª Classe,333.23,14,15,Chocolate
+701,Lorena Santos,39,Roma,3ª Classe,299.39,13,15,Boné
+702,Thales Pastor,24,Paris,1ª Classe,266.13,18,20,Celular
+703,Davi Lucca Casa Grande,56,Paris,1ª Classe,243.18,19,20,Celular
+704,Ana Carolina da Rocha,52,Madri,1ª Classe,55.66,20,21,Celular
+705,Antonella Gomes,52,Paris,3ª Classe,328.12,18,20,Jornal
+706,Leandro da Cunha,20,Madri,2ª Classe,122.45,22,24,Celular
+707,Ana Lívia Moura,42,Berlim,3ª Classe,404.26,22,23,Boné
+708,Alice Dias,34,Roma,1ª Classe,455.94,11,13,Chocolate
+709,Helena da Rocha,52,Roma,2ª Classe,102.62,21,22,Chocolate
+710,Alícia Pereira,25,Madri,1ª Classe,193.76,13,15,Boné
+711,Henrique Ferreira,24,Londres,2ª Classe,329.27,14,16,Celular
+712,Levi Rocha,45,Madri,2ª Classe,309.82,20,22,Celular
+713,Rebeca Macedo,44,Madri,3ª Classe,246.41,15,17,Jornal
+714,Isabela Santos,37,Madri,2ª Classe,389.36,16,17,Celular
+715,Isabel Novais,60,Paris,3ª Classe,122.59,22,23,Carteira
+716,Matteo Sampaio,50,Roma,2ª Classe,402.42,19,20,Carteira
+717,Maria Liz Freitas,58,Paris,1ª Classe,413.4,17,19,Carteira
+718,Letícia da Rosa,34,Londres,2ª Classe,49.22,10,12,Celular
+719,Thales Sales,43,Madri,3ª Classe,265.29,21,22,Faca
+720,Agatha Melo,70,Londres,3ª Classe,252.24,10,11,Celular
+721,Emanuella Cavalcante,69,Madri,2ª Classe,105.43,22,23,Chocolate
+722,Luiz Miguel Melo,61,Paris,2ª Classe,127.24,10,11,Carteira
+723,Luiz Miguel Albuquerque,35,Roma,2ª Classe,338.13,16,17,Boné
+724,Rhavi Silva,65,Paris,1ª Classe,279.3,21,23,Jornal
+725,Aylla Ferreira,70,Berlim,1ª Classe,307.12,13,15,Celular
+726,Alana Cavalcante,54,Paris,2ª Classe,95.77,18,19,Boné
+727,Eloá Freitas,50,Berlim,2ª Classe,474.04,22,24,Celular
+728,Erick Borges,70,Madri,2ª Classe,350.15,16,18,Celular
+729,Antonella da Rocha,66,Berlim,2ª Classe,343.98,19,20,Boné
+730,Isadora Moraes,34,Paris,2ª Classe,320.49,13,14,Celular
+731,Nina Duarte,44,Berlim,3ª Classe,272.47,21,23,Jornal
+732,Maria Luísa Duarte,23,Roma,3ª Classe,376.91,15,16,Boné
+733,Mariana Pimenta,29,Roma,2ª Classe,183.23,19,21,Carteira
+734,Leandro Camargo,65,Londres,2ª Classe,371.19,13,14,Celular
+735,Maria Aragão,31,Londres,1ª Classe,419.12,19,21,Carteira
+736,Rebeca Novais,24,Paris,1ª Classe,341.15,20,22,Chocolate
+737,Stephany da Luz,66,Madri,1ª Classe,425.53,15,17,Boné
+738,José Pedro Gonçalves,54,Berlim,2ª Classe,99.61,22,24,Boné
+739,Ana Vitória Albuquerque,66,Madri,1ª Classe,36.53,22,24,Boné
+740,Dra. Júlia Ramos,52,Paris,3ª Classe,180.17,20,21,Boné
+741,Allana Cassiano,25,Madri,2ª Classe,164.67,10,11,Chocolate
+742,Srta. Helena Ribeiro,42,Madri,1ª Classe,169.46,19,21,Carteira
+743,Gustavo Henrique Abreu,34,Londres,2ª Classe,240.96,19,21,Jornal
+744,Théo da Rocha,49,Roma,1ª Classe,215.36,22,24,Jornal
+745,Sra. Manuella Viana,43,Berlim,2ª Classe,98.15,12,13,Celular
+746,Sr. Juan Leão,64,Berlim,1ª Classe,282.12,16,17,Carteira
+747,Dra. Maria Eduarda Andrade,65,Londres,2ª Classe,404.78,12,14,Boné
+748,Ana Clara Farias,58,Madri,3ª Classe,363.07,22,24,Jornal
+749,Srta. Ágatha Cavalcante,53,Madri,1ª Classe,205.22,21,22,Carteira
+750,Agatha Siqueira,70,Berlim,2ª Classe,421.1,11,13,Chocolate
+751,Helena Mendes,34,Berlim,2ª Classe,284.57,22,24,Jornal
+752,Pedro Lucas Sampaio,44,Paris,2ª Classe,435.01,19,20,Chocolate
+753,Sra. Kamilly Rios,59,Madri,1ª Classe,489.89,14,16,Jornal
+754,Melina da Costa,50,Roma,3ª Classe,229.0,11,13,Chocolate
+755,Ian Moura,47,Londres,1ª Classe,323.88,15,17,Chocolate
+756,Vinicius Sousa,54,Roma,1ª Classe,48.76,15,16,Jornal
+757,Bárbara Vargas,59,Berlim,3ª Classe,141.06,20,22,Jornal
+758,Henry Rios,46,Berlim,3ª Classe,297.59,17,19,Carteira
+759,Sr. Davi Miguel Dias,19,Londres,3ª Classe,124.97,14,15,Jornal
+760,Noah Abreu,43,Paris,1ª Classe,41.26,17,18,Carteira
+761,Maria Júlia Teixeira,43,Madri,1ª Classe,60.92,19,20,Carteira
+762,Gabrielly Borges,42,Berlim,1ª Classe,131.22,14,16,Chocolate
+763,Igor da Mota,26,Madri,1ª Classe,24.0,20,22,Celular
+764,Otto Borges,38,Roma,2ª Classe,487.74,18,20,Boné
+765,Sra. Valentina Aparecida,26,Madri,1ª Classe,299.51,17,19,Boné
+766,Dante Carvalho,58,Madri,2ª Classe,455.37,17,18,Celular
+767,Sr. Marcelo Camargo,46,Berlim,2ª Classe,211.98,12,14,Carteira
+768,Mathias Novaes,51,Londres,2ª Classe,150.51,18,19,Chocolate
+769,Mariana da Paz,49,Roma,2ª Classe,14.47,16,18,Chocolate
+770,Helena da Rosa,68,Paris,3ª Classe,193.09,16,18,Boné
+771,Clara da Cunha,28,Roma,2ª Classe,118.09,11,13,Chocolate
+772,Cauê Pastor,51,Madri,3ª Classe,345.47,14,16,Boné
+773,Pedro Miguel Correia,22,Londres,1ª Classe,151.9,20,22,Chocolate
+774,Samuel Porto,35,Madri,2ª Classe,102.02,10,11,Carteira
+775,Lorenzo da Conceição,52,Paris,1ª Classe,486.44,14,16,Carteira
+776,Luara da Conceição,46,Paris,1ª Classe,54.2,10,12,Jornal
+777,Marcela Vasconcelos,44,Berlim,2ª Classe,499.0,17,18,Jornal
+778,Júlia Pacheco,66,Londres,1ª Classe,140.59,16,17,Boné
+779,Evelyn Rezende,29,Londres,2ª Classe,410.45,10,11,Bengala
+780,João Gabriel Sampaio,63,Londres,2ª Classe,387.9,17,18,Chocolate
+781,Dr. Samuel Castro,20,Londres,2ª Classe,370.31,11,12,Boné
+782,João Vitor Peixoto,61,Berlim,2ª Classe,87.72,21,22,Chocolate
+783,Ana Luiza Nunes,53,Madri,1ª Classe,134.12,20,22,Jornal
+784,Gael da Costa,21,Londres,1ª Classe,125.62,16,18,Carteira
+785,Emanuel Barros,68,Berlim,3ª Classe,68.63,22,23,Carteira
+786,Lara Martins,20,Madri,3ª Classe,242.88,19,20,Jornal
+787,Bento Moraes,23,Londres,1ª Classe,254.96,20,22,Celular
+788,Maitê Ferreira,66,Paris,1ª Classe,184.2,12,13,Carteira
+789,Daniela Sampaio,32,Berlim,3ª Classe,396.4,22,24,Celular
+790,Beatriz Fonseca,46,Londres,1ª Classe,347.73,15,16,Jornal
+791,Allana Machado,20,Roma,3ª Classe,224.38,14,16,Jornal
+792,João Vitor Santos,29,Madri,2ª Classe,168.6,17,19,Celular
+793,Sr. Miguel Guerra,56,Madri,1ª Classe,43.75,12,14,Jornal
+794,Maria Flor da Cruz,34,Madri,2ª Classe,232.5,22,24,Chocolate
+795,Mathias Nunes,19,Madri,2ª Classe,390.25,13,15,Chocolate
+796,Manuella Leão,60,Madri,2ª Classe,103.04,20,22,Celular
+797,Thomas Araújo,27,Madri,2ª Classe,168.07,20,22,Carteira
+798,Emanuella Brito,51,Paris,1ª Classe,419.24,12,13,Celular
+799,Luigi Nunes,30,Paris,2ª Classe,103.89,10,12,Chocolate
+800,Caleb Pinto,51,Madri,3ª Classe,299.25,10,12,Jornal
+801,Luiz Otávio Jesus,63,Paris,1ª Classe,465.8,13,15,Celular
+802,Léo da Rosa,23,Roma,3ª Classe,39.74,18,20,Celular
+803,Maria Cecília Monteiro,68,Paris,3ª Classe,140.25,10,11,Celular
+804,Melissa Garcia,22,Londres,3ª Classe,57.59,21,22,Boné
+805,Murilo Alves,30,Londres,3ª Classe,331.87,19,20,Boné
+806,Olivia da Rosa,53,Roma,3ª Classe,61.7,20,22,Chocolate
+807,Guilherme Caldeira,62,Roma,1ª Classe,91.74,12,14,Boné
+808,Dra. Cecília Teixeira,60,Londres,3ª Classe,499.23,17,19,Celular
+809,Srta. Sophie Caldeira,53,Berlim,2ª Classe,212.05,20,22,Celular
+810,Bianca Cavalcante,38,Madri,1ª Classe,285.94,13,15,Celular
+811,Liz Cassiano,65,Berlim,2ª Classe,481.21,17,19,Carteira
+812,Esther Vasconcelos,20,Berlim,3ª Classe,17.99,12,14,Carteira
+813,Erick Duarte,32,Londres,2ª Classe,20.63,21,23,Celular
+814,Mirella Martins,50,Madri,3ª Classe,463.7,12,13,Carteira
+815,Júlia Pinto,40,Londres,1ª Classe,139.84,19,20,Jornal
+816,Antonella Andrade,69,Berlim,1ª Classe,289.54,19,20,Chocolate
+817,Ian Rocha,64,Berlim,2ª Classe,94.72,21,22,Chocolate
+818,João Vitor Silva,37,Paris,3ª Classe,406.09,16,17,Celular
+819,Lívia Brito,67,Berlim,2ª Classe,441.1,16,18,Celular
+820,Stephany Alves,25,Londres,3ª Classe,329.86,19,20,Chocolate
+821,Leandro Novais,58,Roma,1ª Classe,159.34,10,12,Boné
+822,André Aparecida,27,Berlim,3ª Classe,351.91,12,13,Chocolate
+823,Beatriz Borges,43,Roma,3ª Classe,291.87,11,12,Boné
+824,Sra. Eloá Novaes,68,Roma,1ª Classe,74.77,11,13,Chocolate
+825,Mariane Correia,21,Madri,2ª Classe,138.65,16,18,Celular
+826,João Pedro Caldeira,26,Londres,2ª Classe,284.06,17,19,Chocolate
+827,Kaique Duarte,30,Madri,3ª Classe,498.57,18,19,Jornal
+828,Marcos Vinicius Fernandes,35,Roma,2ª Classe,345.52,19,20,Carteira
+829,Augusto Almeida,44,Roma,2ª Classe,180.67,15,17,Chocolate
+830,Daniel Correia,19,Berlim,1ª Classe,493.95,19,21,Chocolate
+831,Srta. Catarina Pastor,46,Paris,1ª Classe,107.85,15,16,Celular
+832,Bruna Cirino,23,Paris,3ª Classe,36.72,19,20,Celular
+833,Leandro Vasconcelos,70,Berlim,1ª Classe,178.2,22,23,Jornal
+834,Srta. Zoe Sousa,48,Paris,2ª Classe,112.41,18,19,Jornal
+835,Bernardo Camargo,51,Berlim,3ª Classe,246.68,21,22,Chocolate
+836,Maria Helena Marques,60,Paris,2ª Classe,295.67,20,21,Jornal
+837,Alana Vieira,21,Berlim,1ª Classe,396.7,19,21,Carteira
+838,Eloah Vasconcelos,59,Paris,1ª Classe,200.44,14,16,Celular
+839,Miguel Nunes,19,Berlim,3ª Classe,199.4,16,17,Celular
+840,Ester Aparecida,49,Madri,3ª Classe,53.13,13,15,Boné
+841,Apollo Nogueira,63,Paris,1ª Classe,131.22,18,20,Jornal
+842,Gustavo Henrique Azevedo,43,Londres,1ª Classe,179.92,15,17,Chocolate
+843,Sabrina Vieira,33,Madri,2ª Classe,407.83,20,22,Celular
+844,Liz da Luz,70,Paris,3ª Classe,475.07,13,14,Jornal
+845,Rebeca Cavalcanti,43,Londres,1ª Classe,367.65,18,19,Boné
+846,Eduardo Gonçalves,54,Londres,2ª Classe,485.56,19,21,Boné
+847,Léo Macedo,26,Londres,3ª Classe,77.9,18,19,Celular
+848,Heitor Souza,37,Madri,1ª Classe,220.73,22,23,Chocolate
+849,Maria Vitória Barbosa,54,Londres,2ª Classe,43.23,18,19,Carteira
+850,Augusto Souza,27,Paris,2ª Classe,441.26,16,18,Jornal
+851,Isabella Duarte,65,Berlim,1ª Classe,391.76,11,12,Carteira
+852,Marcela Costela,66,Madri,3ª Classe,140.76,19,20,Chocolate
+853,Ayla Marques,32,Paris,2ª Classe,48.94,22,24,Carteira
+854,Alexia Pinto,56,Roma,3ª Classe,328.29,12,14,Boné
+855,Isis Cunha,26,Londres,1ª Classe,120.87,16,17,Celular
+856,Sr. Rodrigo Lima,44,Londres,3ª Classe,338.96,13,14,Carteira
+857,João Leão,46,Madri,2ª Classe,347.05,17,18,Boné
+858,Ana Sales,67,Paris,3ª Classe,370.31,16,18,Boné
+859,Dr. Bento Barros,65,Madri,3ª Classe,272.72,20,21,Boné
+860,Dr. Breno Cavalcanti,46,Roma,1ª Classe,440.11,13,15,Bastão de Caminhada
+861,Breno Marques,20,Madri,2ª Classe,262.9,20,21,Jornal
+862,Giovanna Cirino,46,Roma,2ª Classe,389.1,14,16,Carteira
+863,Yuri Macedo,36,Madri,1ª Classe,348.08,12,14,Celular
+864,Melissa Pacheco,46,Paris,3ª Classe,255.32,12,13,Boné
+865,Ryan Rezende,38,Roma,1ª Classe,97.65,19,20,Celular
+866,Dante Ferreira,23,Berlim,2ª Classe,348.94,21,22,Chocolate
+867,Stephany Viana,25,Paris,1ª Classe,356.05,20,22,Carteira
+868,Heloísa Novaes,63,Roma,3ª Classe,397.62,18,19,Boné
+869,Antônio Nascimento,42,Paris,1ª Classe,457.0,19,20,Carteira
+870,Isaque Gomes,27,Londres,3ª Classe,35.14,14,16,Chocolate
+871,Davi Lucca Moraes,46,Berlim,3ª Classe,98.54,12,13,Carteira
+872,Rhavi Costa,66,Berlim,1ª Classe,234.73,17,18,Chocolate
+873,Dr. José Miguel Rodrigues,49,Londres,1ª Classe,298.54,17,19,Boné
+874,Sophie Peixoto,23,Madri,3ª Classe,13.22,18,20,Chocolate
+875,Luan Gonçalves,53,Londres,1ª Classe,100.57,10,12,Carteira
+876,Milena Ferreira,20,Madri,3ª Classe,156.24,11,12,Carteira
+877,José Cardoso,29,Londres,3ª Classe,149.35,20,21,Bengala
+878,Sr. Heitor Silveira,65,Madri,2ª Classe,466.43,11,13,Jornal
+879,Sr. Diego Moreira,42,Paris,2ª Classe,423.22,11,13,Boné
+880,Isabel Moreira,25,Berlim,2ª Classe,268.26,18,19,Chocolate
+881,Joaquim da Costa,57,Paris,1ª Classe,289.97,20,21,Boné
+882,Amanda da Conceição,62,Madri,3ª Classe,150.72,19,21,Jornal
+883,Dra. Maria Luísa Moura,54,Madri,2ª Classe,464.28,19,21,Boné
+884,Benjamim Albuquerque,58,Roma,2ª Classe,405.91,19,20,Chocolate
+885,Davi Miguel Novais,30,Paris,1ª Classe,21.75,20,21,Chocolate
+886,Larissa Marques,31,Madri,2ª Classe,212.88,15,17,Boné
+887,Lívia Martins,58,Londres,1ª Classe,323.9,21,23,Jornal
+888,Laís Rodrigues,22,Berlim,2ª Classe,258.28,15,16,Carteira
+889,Benicio Machado,39,Berlim,2ª Classe,364.95,19,20,Celular
+890,Enzo da Rosa,30,Berlim,2ª Classe,461.92,17,19,Celular
+891,Sofia Sampaio,59,Londres,2ª Classe,86.14,17,19,Boné
+892,Noah Fernandes,70,Roma,3ª Classe,37.45,18,20,Boné
+893,Mathias Andrade,61,Berlim,3ª Classe,272.58,13,15,Celular
+894,Hellena Rezende,68,Berlim,1ª Classe,485.11,14,15,Jornal
+895,Sr. Apollo Cassiano,42,Madri,1ª Classe,289.78,16,17,Chocolate
+896,Dom das Neves,68,Berlim,3ª Classe,430.33,21,22,Jornal
+897,Sophie Vieira,23,Roma,1ª Classe,192.08,14,15,Boné
+898,Emanuelly Gomes,29,Paris,2ª Classe,394.62,22,23,Celular
+899,Kaique Mendes,46,Madri,1ª Classe,401.52,18,19,Jornal
+900,Fernanda Cunha,48,Madri,2ª Classe,390.01,12,13,Celular
+901,Kevin Santos,51,Londres,1ª Classe,365.04,17,19,Chocolate
+902,Maria Helena da Rocha,51,Paris,1ª Classe,162.38,10,11,Jornal
+903,Francisco da Conceição,20,Paris,3ª Classe,385.43,21,23,Carteira
+904,Davi Cavalcante,66,Berlim,3ª Classe,447.15,15,16,Jornal
+905,Ravi Lucca Aragão,35,Madri,2ª Classe,388.67,20,21,Jornal
+906,Ana Julia Cassiano,28,Berlim,1ª Classe,17.48,19,20,Jornal
+907,Calebe da Rosa,40,Madri,2ª Classe,142.82,21,23,Chocolate
+908,Ana Cecília Araújo,28,Paris,2ª Classe,310.5,15,17,Carteira
+909,Raul Borges,19,Roma,3ª Classe,34.72,16,17,Carteira
+910,Pedro Lucas Pacheco,43,Londres,3ª Classe,302.1,19,21,Chocolate
+911,Srta. Brenda Freitas,37,Berlim,1ª Classe,359.32,20,21,Bengala
+912,Maria Liz da Paz,66,Roma,3ª Classe,74.58,22,24,Carteira
+913,Mathias Sales,37,Roma,2ª Classe,123.53,13,14,Celular
+914,Ana Vitória Albuquerque,57,Berlim,2ª Classe,202.12,21,23,Celular
+915,Sr. Matteo Pereira,38,Roma,2ª Classe,24.83,17,18,Jornal
+916,Dra. Liz Sales,47,Londres,2ª Classe,386.29,19,20,Boné
+917,Eloá Rodrigues,43,Paris,2ª Classe,282.51,11,13,Boné
+918,Cauã Moura,43,Madri,2ª Classe,126.9,13,14,Bengala
+919,Dra. Mirella Pinto,42,Paris,2ª Classe,112.04,21,23,Celular
+920,Carlos Eduardo Câmara,45,Madri,2ª Classe,276.82,13,14,Chocolate
+921,Matteo Vasconcelos,22,Madri,2ª Classe,66.02,19,21,Jornal
+922,Srta. Maria Eduarda da Conceição,24,Roma,1ª Classe,160.94,16,17,Chocolate
+923,Nicole Nascimento,61,Madri,2ª Classe,170.43,20,21,Carteira
+924,Dr. Josué Cavalcanti,70,Londres,3ª Classe,452.6,20,21,Celular
+925,Isabelly Pires,60,Londres,2ª Classe,270.32,16,18,Jornal
+926,Vinícius da Costa,61,Berlim,2ª Classe,289.44,20,22,Celular
+927,Alexandre da Cruz,45,Berlim,1ª Classe,295.54,19,21,Celular
+928,Isis Correia,36,Paris,2ª Classe,451.53,10,11,Chocolate
+929,Sra. Mirella da Mata,70,Berlim,1ª Classe,432.01,10,11,Boné
+930,Henrique Barros,55,Roma,3ª Classe,165.88,16,18,Boné
+931,Bento Borges,52,Londres,3ª Classe,94.97,12,13,Boné
+932,Luara Pereira,41,Roma,1ª Classe,151.35,20,21,Carteira
+933,Breno Pimenta,22,Paris,1ª Classe,363.46,17,19,Bengala
+934,Srta. Caroline Pinto,26,Paris,1ª Classe,324.7,16,18,Celular
+935,Lavínia Cardoso,62,Madri,2ª Classe,315.39,17,19,Boné
+936,Luana Lima,46,Roma,2ª Classe,120.61,16,17,Chocolate
+937,Theodoro Pereira,64,Londres,3ª Classe,255.85,16,18,Carteira
+938,Asafe Cirino,20,Madri,2ª Classe,355.39,11,13,Faca
+939,Augusto Borges,23,Londres,3ª Classe,368.33,22,24,Boné
+940,Milena Costela,23,Madri,3ª Classe,53.34,17,18,Chocolate
+941,Théo Cavalcante,52,Madri,2ª Classe,310.39,15,16,Boné
+942,Dante Borges,50,Roma,3ª Classe,369.57,16,18,Faca
+943,Diogo Machado,69,Berlim,2ª Classe,92.08,21,23,Chocolate
+944,Eduarda Monteiro,54,Berlim,1ª Classe,318.36,19,20,Chocolate
+945,Dra. Alice Jesus,60,Berlim,3ª Classe,315.92,14,16,Carteira
+946,Sr. Nicolas Sá,50,Paris,2ª Classe,133.5,19,21,Jornal
+947,Sr. Pietro Melo,34,Paris,3ª Classe,64.66,12,13,Chocolate
+948,Bella Campos,41,Londres,2ª Classe,393.44,13,15,Carteira
+949,Luiz Henrique Aragão,51,Paris,2ª Classe,492.2,12,13,Celular
+950,Marcos Vinicius Guerra,66,Roma,2ª Classe,126.59,17,18,Jornal
+951,Bryan Oliveira,64,Berlim,1ª Classe,324.71,22,23,Carteira
+952,Mariane Sampaio,47,Roma,2ª Classe,157.67,21,22,Boné
+953,Maria Sophia Camargo,63,Roma,2ª Classe,138.69,18,20,Carteira
+954,Asafe da Rosa,69,Roma,2ª Classe,342.46,18,19,Carteira
+955,Heloísa Dias,52,Berlim,2ª Classe,309.14,20,22,Jornal
+956,Cauê Borges,35,Paris,2ª Classe,330.63,16,18,Celular
+957,Gustavo Henrique Rodrigues,65,Londres,3ª Classe,339.23,22,23,Boné
+958,Sophia Siqueira,61,Londres,2ª Classe,278.33,20,21,Celular
+959,Lara da Mota,18,Roma,1ª Classe,267.38,20,22,Jornal
+960,Dante Moura,64,Berlim,2ª Classe,104.61,10,11,Carteira
+961,Aylla Pastor,56,Londres,3ª Classe,322.66,21,22,Carteira
+962,Dr. Oliver Melo,56,Londres,2ª Classe,331.63,20,21,Celular
+963,Dante Borges,62,Londres,2ª Classe,154.34,20,21,Chocolate
+964,Dr. Otávio Costa,35,Roma,3ª Classe,452.66,22,24,Jornal
+965,Sr. Léo Freitas,67,Paris,2ª Classe,390.78,16,18,Jornal
+966,Sr. Pedro Lucas Alves,21,Berlim,2ª Classe,97.19,11,13,Bengala
+967,Heitor das Neves,30,Madri,2ª Classe,97.44,17,18,Carteira
+968,Srta. Isadora Castro,67,Roma,1ª Classe,310.84,11,13,Chocolate
+969,Natália Novaes,24,Paris,1ª Classe,44.5,21,23,Celular
+970,Diego Gomes,19,Roma,1ª Classe,329.9,10,11,Chocolate
+971,Pedro Henrique Caldeira,35,Londres,3ª Classe,171.62,16,17,Boné
+972,Emanuella Casa Grande,67,Roma,2ª Classe,223.67,21,22,Boné
+973,Carolina Lopes,18,Roma,3ª Classe,410.81,17,18,Chocolate
+974,Theo Costa,40,Berlim,3ª Classe,158.39,10,11,Jornal
+975,Francisco Vargas,39,Paris,2ª Classe,382.62,14,15,Carteira
+976,Dr. Dom Oliveira,20,Roma,3ª Classe,103.59,21,23,Celular
+977,Augusto Aragão,58,Berlim,2ª Classe,51.58,20,22,Chocolate
+978,Marcela Rios,26,Paris,1ª Classe,22.43,19,20,Boné
+979,Mariah Leão,22,Madri,3ª Classe,160.79,18,20,Bengala
+980,Daniela Oliveira,19,Paris,2ª Classe,37.47,22,23,Boné
+981,Carolina Pereira,31,Madri,2ª Classe,470.64,18,19,Chocolate
+982,Pedro Henrique Nascimento,32,Paris,1ª Classe,370.38,17,18,Boné
+983,Sr. Samuel Abreu,57,Paris,1ª Classe,353.64,12,13,Carteira
+984,Gabrielly Jesus,21,Berlim,1ª Classe,233.53,12,13,Celular
+985,Isaac Nascimento,24,Paris,2ª Classe,301.54,19,20,Carteira
+986,Asafe Rezende,30,Roma,2ª Classe,407.65,21,23,Jornal
+987,Srta. Valentina Leão,61,Madri,3ª Classe,77.29,22,23,Celular
+988,Rafael Montenegro,55,Londres,2ª Classe,40.98,14,15,Celular
+989,Brenda Freitas,28,Berlim,3ª Classe,90.85,13,14,Carteira
+990,Ana Carolina Sousa,68,Madri,2ª Classe,391.05,10,12,Carteira
+991,Alexandre Fonseca,18,Londres,1ª Classe,356.3,19,21,Boné
+992,Luiz Otávio Cassiano,69,Roma,3ª Classe,72.18,12,14,Boné
+993,Dr. André Alves,44,Londres,1ª Classe,309.16,10,11,Chocolate
+994,Diego Siqueira,57,Paris,3ª Classe,414.98,14,16,Boné
+995,Sra. Ester Câmara,53,Londres,1ª Classe,67.58,18,19,Chocolate
+996,Sra. Luara Martins,66,Madri,3ª Classe,117.45,22,23,Jornal
+997,Juliana Duarte,30,Paris,1ª Classe,345.77,17,19,Carteira
+998,João Pedro da Cunha,60,Paris,1ª Classe,325.98,14,15,Boné
+999,Davi Lucca Rios,39,Madri,2ª Classe,31.23,21,22,Celular
+1000,Emanuella Fernandes,29,Londres,1ª Classe,247.68,11,12,Celular
+1001,Gael Henrique Rocha,64,Roma,3ª Classe,294.08,16,17,Chocolate
+1002,Lucas Gabriel Pastor,38,Londres,1ª Classe,169.8,11,12,Chocolate
+1003,Giovanna da Mota,30,Roma,1ª Classe,46.03,19,21,Carteira
+1004,Larissa Cunha,45,Londres,1ª Classe,464.66,17,18,Boné
+1005,Lorena Fonseca,26,Roma,3ª Classe,105.14,15,17,Jornal
+1006,Mariane Sá,26,Paris,3ª Classe,288.65,14,15,Carteira
+1007,Matteo Melo,47,Roma,2ª Classe,93.89,15,16,Celular
+1008,Luan Teixeira,56,Londres,3ª Classe,476.85,12,13,Carteira
+1009,Arthur Gabriel Castro,51,Roma,1ª Classe,299.87,17,19,Carteira
+1010,Bianca Ramos,45,Londres,1ª Classe,170.38,19,20,Celular
+1011,Dra. Maria Fernanda Duarte,55,Londres,3ª Classe,450.14,16,17,Carteira
+1012,Ágatha Pastor,48,Madri,1ª Classe,218.59,16,18,Celular
+1013,Mariah Cavalcante,62,Paris,2ª Classe,252.69,11,12,Chocolate
+1014,Diego Cunha,44,Londres,1ª Classe,185.62,13,14,Carteira
+1015,Daniela Farias,60,Berlim,1ª Classe,354.62,19,20,Bengala
+1016,Caleb Vieira,47,Londres,3ª Classe,208.63,22,24,Chocolate
+1017,Sr. Matteo Novais,63,Paris,3ª Classe,44.64,21,23,Boné
+1018,Lucas Martins,36,Roma,2ª Classe,352.05,19,20,Celular
+1019,Bella da Mata,23,Madri,2ª Classe,370.52,10,12,Celular
+1020,Sophia Fernandes,25,Roma,2ª Classe,238.02,10,12,Jornal
+1021,Juliana Cunha,59,Madri,3ª Classe,42.83,21,22,Carteira
+1022,Ana Liz Rezende,39,Londres,3ª Classe,65.64,17,18,Chocolate
+1023,Luara das Neves,66,Londres,2ª Classe,182.83,14,16,Jornal
+1024,Cecilia Peixoto,22,Berlim,2ª Classe,231.68,18,19,Boné
+1025,Joaquim Aragão,52,Madri,2ª Classe,231.47,15,16,Carteira
+1026,Dr. Ravi Lucca Guerra,47,Paris,1ª Classe,201.43,12,14,Faca
+1027,Dra. Olivia Caldeira,22,Paris,1ª Classe,145.21,21,22,Boné
+1028,Sr. José Pedro Fernandes,31,Madri,3ª Classe,21.12,16,17,Boné
+1029,Anthony Gabriel Moura,44,Roma,3ª Classe,325.9,14,15,Carteira
+1030,Oliver Machado,69,Londres,3ª Classe,325.89,16,18,Chocolate
+1031,Sofia Cavalcante,68,Berlim,2ª Classe,300.75,21,23,Boné
+1032,Caroline Fonseca,54,Londres,2ª Classe,94.15,14,15,Boné
+1033,Dra. Olivia Aparecida,36,Paris,1ª Classe,183.03,17,18,Chocolate
+1034,Danilo Costa,28,Madri,2ª Classe,99.32,12,13,Carteira
+1035,Srta. Rebeca Rezende,25,Paris,2ª Classe,291.52,17,19,Jornal
+1036,Ana Machado,31,Madri,3ª Classe,27.0,15,17,Carteira
+1037,Eloah Barros,46,Madri,1ª Classe,271.49,11,12,Boné
+1038,Bento Alves,49,Londres,2ª Classe,464.63,12,13,Bengala
+1039,Marina Vargas,52,Madri,2ª Classe,327.15,14,16,Celular
+1040,Luiz Gustavo Novaes,66,Madri,3ª Classe,82.07,19,21,Jornal
+1041,Otto Machado,25,Roma,1ª Classe,78.32,18,19,Jornal
+1042,Srta. Milena Leão,43,Madri,1ª Classe,228.53,11,13,Carteira
+1043,Léo Novais,59,Londres,3ª Classe,267.95,22,24,Jornal
+1044,Vitor Gabriel Siqueira,23,Madri,2ª Classe,341.76,11,13,Jornal
+1045,Sr. Henry Montenegro,38,Madri,3ª Classe,260.66,10,12,Boné
+1046,Lorenzo Sales,63,Roma,2ª Classe,199.2,10,12,Jornal
+1047,Camila Dias,37,Roma,3ª Classe,52.92,21,23,Chocolate
+1048,Luiz Gustavo Nunes,44,Roma,2ª Classe,90.26,21,23,Chocolate
+1049,Jade da Cruz,44,Londres,3ª Classe,302.99,12,13,Jornal
+1050,Sr. Fernando Ramos,51,Berlim,1ª Classe,467.24,19,21,Carteira
+1051,Caio Rios,44,Berlim,2ª Classe,95.7,17,18,Jornal
+1052,Maysa Moraes,42,Berlim,3ª Classe,250.39,14,16,Boné
+1053,Srta. Melina Ramos,65,Roma,1ª Classe,23.15,10,11,Jornal
+1054,João Miguel Marques,58,Roma,1ª Classe,330.37,14,16,Carteira
+1055,Melina Aparecida,62,Londres,1ª Classe,68.48,14,16,Bastão de Caminhada
+1056,Mathias Aragão,22,Madri,3ª Classe,187.26,17,19,Celular
+1057,Raquel Azevedo,58,Roma,3ª Classe,410.96,15,16,Celular
+1058,Benjamim Moreira,28,Madri,1ª Classe,81.61,17,18,Jornal
+1059,Henrique Mendes,21,Berlim,2ª Classe,215.56,15,16,Jornal
+1060,Ana Vitória Pereira,51,Paris,3ª Classe,104.97,20,21,Celular
+1061,Renan Cavalcanti,56,Londres,3ª Classe,168.08,15,17,Jornal
+1062,Vitória Cunha,62,Berlim,1ª Classe,271.87,15,16,Carteira
+1063,Nicolas Oliveira,51,Berlim,2ª Classe,391.62,16,18,Celular
+1064,Vitória Cardoso,28,Paris,1ª Classe,85.73,13,14,Celular
+1065,Maria Sousa,53,Madri,3ª Classe,417.39,18,19,Boné
+1066,Maria Flor Nogueira,22,Paris,1ª Classe,462.47,17,19,Jornal
+1067,Dra. Ayla Sá,41,Londres,2ª Classe,445.97,19,21,Carteira
+1068,Maria Eduarda da Mota,37,Paris,3ª Classe,409.14,13,14,Celular
+1069,Evelyn Oliveira,27,Londres,2ª Classe,71.42,12,13,Boné
+1070,Clarice Porto,66,Paris,1ª Classe,19.22,17,19,Carteira
+1071,Kaique Freitas,24,Paris,3ª Classe,261.6,10,12,Carteira
+1072,Igor Mendonça,34,Paris,1ª Classe,157.81,10,11,Celular
+1073,Caleb Vargas,56,Londres,3ª Classe,451.58,12,14,Carteira
+1074,Eloá Cirino,27,Berlim,3ª Classe,180.44,12,13,Boné
+1075,João Pedro da Conceição,22,Paris,3ª Classe,383.99,18,19,Chocolate
+1076,Sr. Marcelo Duarte,36,Londres,3ª Classe,12.12,21,22,Celular
+1077,Maria Sophia Lopes,50,Roma,2ª Classe,352.09,12,14,Chocolate
+1078,Vitor Cardoso,24,Londres,2ª Classe,490.84,16,17,Boné
+1079,Luiza Novais,44,Paris,2ª Classe,70.57,11,12,Boné
+1080,Mariana Dias,41,Berlim,3ª Classe,363.85,11,13,Boné
+1081,Joaquim Sampaio,42,Berlim,2ª Classe,304.19,14,16,Jornal
+1082,Dra. Hadassa Duarte,44,Berlim,2ª Classe,102.5,11,13,Celular
+1083,Enzo da Costa,41,Londres,1ª Classe,499.37,17,18,Boné
+1084,Augusto Santos,51,Paris,1ª Classe,80.25,16,17,Chocolate
+1085,Thales Freitas,28,Paris,2ª Classe,487.85,15,16,Chocolate
+1086,Murilo Fonseca,43,Paris,1ª Classe,420.67,21,23,Jornal
+1087,Sra. Manuela Garcia,63,Madri,3ª Classe,143.76,22,24,Jornal
+1088,Sarah Peixoto,60,Madri,2ª Classe,493.89,18,20,Carteira
+1089,Ana Liz Abreu,47,Paris,1ª Classe,132.84,17,18,Chocolate
+1090,Vinícius Barros,26,Paris,1ª Classe,371.52,11,13,Chocolate
+1091,Pedro da Rosa,29,Roma,3ª Classe,342.81,12,14,Chocolate
+1092,Bianca da Conceição,24,Paris,3ª Classe,378.29,22,24,Celular
+1093,Kamilly Aparecida,30,Berlim,3ª Classe,253.97,18,20,Boné
+1094,Pietra Albuquerque,69,Madri,3ª Classe,18.66,22,23,Bastão de Caminhada
+1095,Luiz Fernando Guerra,25,Roma,2ª Classe,164.13,16,18,Boné
+1096,Olívia Moraes,20,Londres,3ª Classe,333.11,22,24,Celular
+1097,Antônio Andrade,28,Roma,2ª Classe,75.9,21,23,Boné
+1098,Dr. Lorenzo Fernandes,25,Madri,3ª Classe,250.37,18,20,Boné
+1099,Rodrigo Leão,28,Madri,1ª Classe,201.78,17,19,Chocolate
+1100,Maria Flor Gomes,40,Berlim,2ª Classe,40.1,19,20,Carteira
+1101,Esther Melo,41,Berlim,3ª Classe,296.14,22,24,Boné
+1102,Samuel Fernandes,45,Berlim,2ª Classe,211.85,10,11,Jornal
+1103,Enrico da Conceição,59,Berlim,3ª Classe,51.62,21,22,Celular
+1104,Melina Cardoso,25,Berlim,1ª Classe,19.66,15,16,Boné
+1105,Daniela Pires,45,Madri,3ª Classe,451.69,14,15,Chocolate
+1106,Bernardo da Mata,55,Paris,2ª Classe,195.09,16,18,Chocolate
+1107,Melissa Rios,69,Roma,1ª Classe,348.52,13,15,Boné
+1108,Diogo Guerra,69,Berlim,1ª Classe,311.27,15,17,Jornal
+1109,Maria Cecília da Cruz,58,Paris,3ª Classe,114.9,14,15,Jornal
+1110,Aylla Cirino,54,Roma,1ª Classe,316.04,11,12,Chocolate
+1111,Asafe Alves,35,Paris,3ª Classe,402.58,17,19,Jornal
+1112,Ester Farias,68,Paris,3ª Classe,413.63,18,20,Boné
+1113,Eduarda Araújo,52,Berlim,1ª Classe,213.01,14,16,Chocolate
+1114,Luiz Felipe Casa Grande,53,Londres,1ª Classe,317.64,18,19,Chocolate
+1115,Heloísa Montenegro,31,Roma,2ª Classe,469.21,18,20,Celular
+1116,Guilherme Pacheco,64,Paris,3ª Classe,108.32,17,18,Jornal
+1117,Pedro Lucas Mendes,65,Berlim,2ª Classe,211.03,11,12,Celular
+1118,Clarice Marques,35,Berlim,3ª Classe,88.69,20,21,Boné
+1119,Thales Alves,25,Londres,1ª Classe,23.58,22,24,Boné
+1120,Yago Cassiano,53,Roma,2ª Classe,326.99,10,11,Carteira
+1121,Cauã Fernandes,26,Paris,2ª Classe,396.94,14,15,Chocolate
+1122,Esther Barbosa,20,Roma,1ª Classe,37.11,11,13,Chocolate
+1123,Sr. Matteo Albuquerque,22,Roma,2ª Classe,339.12,11,13,Celular
+1124,Luiz Miguel Machado,64,Londres,1ª Classe,64.85,21,22,Boné
+1125,Isadora Brito,55,Madri,2ª Classe,253.26,11,12,Chocolate
+1126,Sra. Daniela Machado,67,Berlim,2ª Classe,417.84,21,23,Celular
+1127,Srta. Manuella Siqueira,65,Londres,2ª Classe,116.82,11,12,Jornal
+1128,Dr. Levi Mendes,35,Roma,2ª Classe,134.61,19,20,Boné
+1129,Heitor Nogueira,41,Paris,2ª Classe,277.42,17,18,Bengala
+1130,Cauã Nunes,68,Londres,2ª Classe,242.86,15,17,Carteira
+1131,Kamilly da Cunha,56,Paris,3ª Classe,334.49,10,11,Jornal
+1132,Joana Pinto,42,Berlim,3ª Classe,479.66,15,16,Boné
+1133,Nina Rodrigues,33,Roma,2ª Classe,13.85,16,18,Jornal
+1134,Maria Sophia Peixoto,70,Londres,2ª Classe,113.09,12,14,Chocolate
+1135,Maria Luiza Rodrigues,69,Roma,1ª Classe,144.28,11,13,Boné
+1136,Josué Andrade,44,Berlim,3ª Classe,216.96,11,12,Chocolate
+1137,Hadassa Moreira,50,Paris,2ª Classe,216.23,21,23,Boné
+1138,Enrico Borges,19,Paris,3ª Classe,324.38,20,22,Celular
+1139,Carolina Casa Grande,26,Paris,2ª Classe,108.04,14,16,Chocolate
+1140,Benicio Castro,25,Londres,1ª Classe,263.02,22,23,Celular
+1141,João Pedro Moura,61,Roma,2ª Classe,231.23,21,22,Jornal
+1142,Raul Gomes,61,Madri,2ª Classe,401.77,13,14,Boné
+1143,Heloisa Camargo,29,Roma,2ª Classe,472.93,19,20,Carteira
+1144,Alice Fernandes,19,Madri,3ª Classe,309.88,13,14,Bengala
+1145,Srta. Heloísa Pacheco,30,Berlim,3ª Classe,427.4,10,12,Chocolate
+1146,Rafaela Nascimento,56,Berlim,1ª Classe,53.64,15,16,Faca
+1147,Marina da Costa,25,Paris,3ª Classe,267.66,22,24,Celular
+1148,Ana Liz Garcia,49,Paris,1ª Classe,359.65,13,15,Jornal
+1149,Dra. Hellena Caldeira,49,Roma,1ª Classe,221.34,13,14,Bastão de Caminhada
+1150,Gabriela Aparecida,36,Londres,2ª Classe,98.38,22,23,Carteira
+1151,Dr. Vitor Gabriel Cavalcanti,34,Londres,3ª Classe,230.98,13,15,Chocolate
+1152,João Vitor Viana,59,Roma,1ª Classe,15.06,12,14,Bengala
+1153,Cecília Castro,43,Londres,3ª Classe,197.91,16,18,Carteira
+1154,Emanuella Barbosa,53,Paris,1ª Classe,173.1,13,15,Celular
+1155,José Miguel Vargas,56,Madri,3ª Classe,376.64,10,11,Jornal
+1156,Yan Sá,57,Roma,2ª Classe,488.99,20,22,Carteira
+1157,Matteo Castro,53,Paris,3ª Classe,97.89,12,14,Celular
+1158,Luiz Gustavo Farias,47,Londres,1ª Classe,165.49,18,20,Carteira
+1159,Srta. Lara Fogaça,25,Berlim,1ª Classe,489.47,17,19,Chocolate
+1160,Stella Freitas,45,Berlim,2ª Classe,310.34,22,24,Boné
+1161,Sra. Ayla Fernandes,45,Londres,2ª Classe,371.07,17,18,Boné
+1162,Diogo Souza,60,Roma,1ª Classe,102.57,10,11,Carteira
+1163,Antonella Machado,48,Berlim,1ª Classe,355.92,16,17,Bastão de Caminhada
+1164,Apollo Lopes,49,Paris,2ª Classe,184.69,21,23,Boné
+1165,Rhavi Duarte,25,Londres,1ª Classe,181.31,13,15,Carteira
+1166,Dra. Melina Fernandes,28,Madri,2ª Classe,285.99,20,21,Chocolate
+1167,Valentim Lima,18,Madri,3ª Classe,98.48,11,12,Celular
+1168,Dr. Otto Mendonça,61,Paris,2ª Classe,22.72,20,21,Boné
+1169,Lucas Gabriel Azevedo,55,Paris,2ª Classe,85.35,11,13,Celular
+1170,Ana Clara Machado,60,Roma,2ª Classe,317.89,14,15,Jornal
+1171,Maria Moreira,20,Madri,2ª Classe,169.21,21,22,Jornal
+1172,Rodrigo Mendes,21,Berlim,2ª Classe,401.09,21,22,Boné
+1173,Benjamin Porto,56,Roma,1ª Classe,205.44,12,13,Bengala
+1174,Giovanna Silveira,43,Paris,1ª Classe,427.65,12,14,Celular
+1175,Vitor Gabriel Vargas,36,Londres,1ª Classe,156.29,22,24,Chocolate
+1176,Sr. Nathan Silva,37,Madri,1ª Classe,185.93,11,13,Boné
+1177,Kevin Dias,49,Roma,2ª Classe,243.46,19,21,Carteira
+1178,Ian Casa Grande,45,Berlim,3ª Classe,101.31,20,22,Carteira
+1179,Brenda Sousa,50,Berlim,2ª Classe,341.46,20,21,Celular
+1180,Vitor Hugo da Cunha,51,Madri,1ª Classe,152.44,16,17,Celular
+1181,Oliver Aparecida,48,Berlim,1ª Classe,492.25,20,22,Celular
+1182,João Aragão,51,Roma,2ª Classe,288.58,18,19,Celular
+1183,José Barros,50,Paris,3ª Classe,218.21,11,13,Chocolate
+1184,Noah Casa Grande,54,Berlim,2ª Classe,134.88,11,12,Carteira
+1185,Miguel Costa,60,Roma,1ª Classe,395.23,16,17,Carteira
+1186,Maria Isis Novais,63,Berlim,2ª Classe,297.73,17,19,Chocolate
+1187,Marcela Barros,34,Berlim,1ª Classe,113.42,11,13,Celular
+1188,Isaque da Costa,24,Roma,3ª Classe,18.78,16,17,Carteira
+1189,Lavínia Costa,59,Roma,2ª Classe,348.99,20,22,Jornal
+1190,Dr. Bruno Alves,70,Madri,2ª Classe,348.42,21,23,Celular
+1191,Sra. Stella Brito,23,Londres,1ª Classe,16.8,11,12,Chocolate
+1192,Kamilly Leão,30,Paris,1ª Classe,245.75,12,13,Boné
+1193,Helena da Rosa,58,Madri,1ª Classe,52.19,22,24,Carteira
+1194,Maria Laura da Paz,45,Paris,1ª Classe,91.39,12,14,Bengala
+1195,Olívia Farias,48,Paris,2ª Classe,296.76,13,15,Chocolate
+1196,José Pedro Almeida,43,Paris,2ª Classe,13.86,20,22,Bengala
+1197,Ana Carolina Silva,49,Madri,3ª Classe,368.23,14,15,Boné
+1198,Olivia da Mota,49,Madri,3ª Classe,365.06,20,22,Jornal
+1199,Luiz Fernando Andrade,21,Madri,1ª Classe,216.78,15,16,Jornal
+1200,Otto Pimenta,59,Roma,2ª Classe,67.3,19,21,Boné
+1201,Milena Brito,45,Paris,1ª Classe,151.13,13,15,Jornal
+1202,Cecília Novaes,32,Madri,1ª Classe,297.95,20,22,Celular
+1203,Olivia Jesus,63,Roma,1ª Classe,442.75,21,23,Faca
+1204,Fernando Viana,61,Berlim,2ª Classe,401.88,12,13,Jornal
+1205,Vitor Hugo Castro,65,Paris,3ª Classe,246.62,12,13,Carteira
+1206,Ana Laura Cavalcanti,49,Paris,2ª Classe,472.1,17,19,Jornal
+1207,Arthur Gabriel Teixeira,53,Paris,1ª Classe,185.81,14,16,Chocolate
+1208,Raquel Nunes,29,Madri,1ª Classe,405.34,15,17,Carteira
+1209,Srta. Antonella Duarte,32,Paris,3ª Classe,119.81,14,16,Celular
+1210,Ana Cecília Pacheco,67,Paris,3ª Classe,141.07,12,13,Chocolate
+1211,Dr. Vitor Hugo Vasconcelos,46,Roma,1ª Classe,487.58,22,23,Celular
+1212,Maria Isis Vargas,20,Madri,1ª Classe,91.85,11,12,Celular
+1213,Dr. André Ramos,28,Berlim,3ª Classe,226.34,18,20,Chocolate
+1214,Benjamin Caldeira,24,Londres,3ª Classe,188.23,12,13,Celular
+1215,Sra. Allana da Cunha,46,Roma,1ª Classe,130.2,22,24,Jornal
+1216,Luiz Felipe Duarte,50,Londres,1ª Classe,140.35,21,23,Jornal
+1217,Srta. Maria Helena Montenegro,60,Londres,1ª Classe,379.07,18,20,Celular
+1218,Sr. Liam Cavalcanti,26,Roma,2ª Classe,459.83,17,19,Faca
+1219,Beatriz Casa Grande,46,Londres,1ª Classe,361.64,18,19,Carteira
+1220,Srta. Maria Fernanda Vieira,38,Roma,1ª Classe,222.7,16,17,Chocolate
+1221,Sr. Lorenzo da Luz,59,Londres,3ª Classe,38.33,20,22,Boné
+1222,Maria Clara Macedo,61,Madri,2ª Classe,363.56,15,17,Carteira
+1223,Ravi Lucca Vasconcelos,35,Madri,3ª Classe,461.02,21,23,Boné
+1224,Anthony da Rocha,31,Madri,3ª Classe,396.29,20,22,Chocolate
+1225,Francisco Porto,69,Roma,1ª Classe,441.68,11,12,Boné
+1226,Rebeca Sá,42,Londres,3ª Classe,496.04,14,15,Carteira
+1227,Ana Julia Cardoso,53,Berlim,3ª Classe,176.95,20,21,Carteira
+1228,Lívia Vargas,68,Madri,3ª Classe,136.76,22,24,Chocolate
+1229,Julia Freitas,50,Paris,3ª Classe,39.37,15,17,Chocolate
+1230,Kaique Câmara,40,Paris,1ª Classe,380.71,11,13,Jornal
+1231,Miguel Peixoto,65,Paris,2ª Classe,176.1,13,14,Jornal
+1232,Bryan Caldeira,36,Madri,3ª Classe,78.59,16,17,Carteira
+1233,Otávio Brito,51,Madri,1ª Classe,413.19,15,17,Carteira
+1234,Olívia Ramos,63,Roma,2ª Classe,50.15,10,12,Celular
+1235,Dra. Júlia Silva,48,Londres,2ª Classe,48.26,20,22,Chocolate
+1236,Sra. Emilly da Mota,51,Roma,2ª Classe,296.31,20,22,Bastão de Caminhada
+1237,Rafaela Novaes,62,Roma,3ª Classe,486.9,12,13,Boné
+1238,Srta. Julia Costela,49,Roma,1ª Classe,484.34,18,19,Chocolate
+1239,Guilherme Souza,47,Roma,1ª Classe,375.78,18,20,Celular
+1240,Esther Duarte,25,Madri,2ª Classe,64.06,15,17,Carteira
+1241,Ian Vasconcelos,27,Paris,2ª Classe,159.41,15,17,Jornal
+1242,Rebeca Monteiro,19,Londres,1ª Classe,394.06,16,17,Celular
+1243,Maria Júlia Novais,37,Berlim,1ª Classe,99.71,21,23,Carteira
+1244,Luiz Otávio Pinto,53,Berlim,1ª Classe,436.51,16,18,Chocolate
+1245,Mariane Rezende,54,Roma,2ª Classe,392.86,17,18,Celular
+1246,Sra. Olivia Rodrigues,50,Roma,2ª Classe,336.94,12,14,Carteira
+1247,Nathan Camargo,57,Madri,2ª Classe,199.75,16,18,Boné
+1248,Henry Gabriel Costela,60,Roma,3ª Classe,145.91,11,12,Chocolate
+1249,Srta. Jade Moreira,54,Berlim,3ª Classe,326.13,20,21,Jornal
+1250,Davi Luiz Mendes,57,Madri,3ª Classe,381.23,19,20,Chocolate
+1251,Isis da Rocha,50,Paris,1ª Classe,332.54,18,19,Bengala
+1252,Nathan Guerra,35,Londres,1ª Classe,416.55,19,21,Carteira
+1253,Pedro Henrique Garcia,52,Madri,2ª Classe,206.88,10,12,Celular
+1254,Erick Costela,19,Berlim,2ª Classe,98.45,10,12,Boné
+1255,Apollo Nascimento,23,Paris,1ª Classe,275.47,14,15,Carteira
+1256,Luiz Gustavo Sales,67,Paris,1ª Classe,160.33,16,17,Carteira
+1257,Larissa Nascimento,38,Londres,1ª Classe,359.52,14,16,Carteira
+1258,Aylla Gonçalves,27,Roma,2ª Classe,136.39,11,12,Jornal
+1259,Alícia Rodrigues,66,Madri,3ª Classe,125.88,18,20,Faca
+1260,Giovanna Nunes,35,Paris,2ª Classe,237.76,16,17,Boné
+1261,Maria Sophia Porto,44,Londres,1ª Classe,141.89,19,20,Jornal
+1262,Carlos Eduardo Santos,53,Londres,2ª Classe,288.44,17,18,Celular
+1263,Gabriel Andrade,50,Londres,1ª Classe,192.92,12,13,Boné
+1264,Maria Luiza Sá,45,Madri,2ª Classe,30.48,17,19,Chocolate
+1265,Luara Guerra,28,Paris,1ª Classe,467.42,17,19,Chocolate
+1266,Cauê Costa,61,Roma,2ª Classe,422.79,13,15,Carteira
+1267,Rafael da Costa,65,Madri,3ª Classe,44.27,11,13,Chocolate
+1268,Davi Lucas Viana,26,Madri,2ª Classe,440.36,13,15,Celular
+1269,Henry Rezende,39,Berlim,3ª Classe,231.83,13,15,Jornal
+1270,Kevin da Cunha,47,Madri,2ª Classe,17.78,21,22,Chocolate
+1271,Melina Sales,18,Madri,2ª Classe,12.1,10,11,Boné
+1272,Bryan Gonçalves,62,Roma,2ª Classe,273.68,22,23,Boné
+1273,Alice Pacheco,70,Roma,3ª Classe,70.47,16,18,Boné
+1274,Dr. Leandro Mendonça,67,Paris,1ª Classe,236.72,13,15,Carteira
+1275,Sra. Esther Leão,65,Paris,2ª Classe,343.47,21,23,Jornal
+1276,Srta. Ester Oliveira,70,Madri,3ª Classe,158.56,21,22,Jornal
+1277,Sra. Stella Brito,49,Berlim,1ª Classe,147.57,21,22,Carteira
+1278,Arthur Miguel Campos,70,Roma,1ª Classe,436.26,19,21,Carteira
+1279,Lucas Gabriel Cassiano,30,Madri,3ª Classe,344.37,19,20,Carteira
+1280,Thales Camargo,26,Paris,1ª Classe,137.22,19,20,Celular
+1281,Pedro Lucas Santos,64,Berlim,1ª Classe,425.36,10,12,Chocolate
+1282,Diogo Monteiro,47,Paris,2ª Classe,324.07,20,21,Celular
+1283,Dra. Yasmin Peixoto,38,Roma,2ª Classe,144.28,20,22,Boné
+1284,Beatriz Camargo,51,Paris,3ª Classe,120.03,14,16,Boné
+1285,Breno Pinto,38,Paris,2ª Classe,105.36,11,12,Bastão de Caminhada
+1286,João Freitas,32,Roma,1ª Classe,459.33,13,14,Jornal
+1287,Hadassa da Luz,22,Paris,1ª Classe,245.18,22,23,Chocolate
+1288,Brenda Rodrigues,58,Berlim,2ª Classe,131.11,17,18,Faca
+1289,Davi Luiz Pastor,21,Berlim,3ª Classe,399.11,11,13,Celular
+1290,Maria Julia Gomes,58,Roma,3ª Classe,71.16,10,11,Boné
+1291,Sra. Marcela Oliveira,62,Paris,1ª Classe,40.38,22,24,Carteira
+1292,Júlia Caldeira,57,Roma,1ª Classe,59.9,10,11,Jornal
+1293,João Pedro Andrade,42,Roma,1ª Classe,312.48,16,17,Celular
+1294,Dr. Otávio Novaes,68,Madri,1ª Classe,232.17,17,19,Celular
+1295,Ravi Lucca Rezende,57,Paris,2ª Classe,328.95,20,21,Boné
+1296,Manuella Brito,39,Madri,1ª Classe,62.92,10,11,Chocolate
+1297,Alícia Ribeiro,30,Madri,1ª Classe,322.31,14,16,Boné
+1298,Levi da Cunha,64,Madri,2ª Classe,101.1,12,13,Carteira
+1299,Luigi Silveira,37,Madri,2ª Classe,261.43,20,22,Jornal
+1300,Sra. Ana Julia Fernandes,52,Londres,1ª Classe,240.07,19,21,Jornal
+1301,Juan Brito,18,Madri,3ª Classe,332.26,12,13,Jornal
+1302,Maria Alice Ribeiro,70,Madri,1ª Classe,216.81,13,14,Chocolate
+1303,Elisa Freitas,30,Paris,2ª Classe,102.78,17,19,Chocolate
+1304,Cauã da Cunha,39,Madri,3ª Classe,481.9,19,21,Boné
+1305,Isis Ribeiro,28,Paris,2ª Classe,439.29,10,12,Jornal
+1306,Maria Alice Albuquerque,18,Londres,3ª Classe,122.83,19,20,Jornal
+1307,Sra. Heloísa Castro,65,Berlim,3ª Classe,194.2,16,17,Celular
+1308,Alice Cavalcante,18,Berlim,1ª Classe,46.13,10,11,Carteira
+1309,José Pedro da Cruz,46,Londres,3ª Classe,296.99,22,24,Carteira
+1310,Cauê Guerra,19,Londres,1ª Classe,149.21,13,15,Chocolate
+1311,Daniela Melo,39,Madri,1ª Classe,97.49,10,11,Celular
+1312,Dra. Milena Cavalcante,24,Paris,3ª Classe,77.25,20,21,Jornal
+1313,Sra. Nina Costela,31,Berlim,2ª Classe,127.67,22,24,Chocolate
+1314,Brayan Novaes,51,Madri,2ª Classe,440.41,11,12,Carteira
+1315,Luiz Henrique Borges,26,Londres,1ª Classe,270.95,21,23,Jornal
+1316,José Pedro Azevedo,45,Londres,1ª Classe,383.91,19,20,Celular
+1317,Sra. Olívia Fonseca,36,Londres,2ª Classe,131.11,20,22,Celular
+1318,Hadassa Barros,50,Madri,2ª Classe,112.53,11,13,Celular
+1319,Eloah Nascimento,57,Paris,1ª Classe,259.22,22,24,Boné
+1320,Guilherme Ribeiro,47,Londres,2ª Classe,359.12,18,20,Chocolate
+1321,Brenda Ribeiro,49,Roma,2ª Classe,294.78,20,21,Jornal
+1322,Ana Luiza Câmara,30,Roma,1ª Classe,203.99,14,16,Celular
+1323,João Felipe Barros,54,Londres,2ª Classe,134.72,11,12,Chocolate
+1324,Milena Moreira,36,Roma,3ª Classe,182.27,19,20,Boné
+1325,Beatriz Borges,57,Berlim,2ª Classe,231.06,16,18,Jornal
+1326,Anthony Pinto,49,Berlim,2ª Classe,197.36,12,14,Jornal
+1327,Dra. Alexia Jesus,59,Paris,2ª Classe,451.72,14,15,Celular
+1328,Sra. Marcela Mendes,32,Paris,1ª Classe,44.96,10,11,Jornal
+1329,Srta. Isadora Peixoto,61,Berlim,2ª Classe,158.33,22,24,Jornal
+1330,Maria Alice Ribeiro,56,Londres,3ª Classe,372.51,14,15,Celular
+1331,Dr. Vitor Gabriel Jesus,36,Berlim,2ª Classe,473.45,19,20,Boné
+1332,Valentim Alves,50,Londres,2ª Classe,121.51,21,22,Boné
+1333,Dra. Emilly Ramos,51,Madri,3ª Classe,381.23,21,23,Jornal
+1334,João Miguel Aragão,23,Berlim,1ª Classe,220.11,21,23,Jornal
+1335,Allana Rodrigues,46,Madri,1ª Classe,193.6,19,20,Jornal
+1336,Gabriela Brito,65,Paris,2ª Classe,407.1,15,17,Jornal
+1337,Lavínia Porto,45,Roma,3ª Classe,273.43,15,16,Chocolate
+1338,Ryan Moura,20,Londres,1ª Classe,488.85,15,17,Bengala
+1339,Carolina Pereira,31,Roma,1ª Classe,271.9,13,15,Carteira
+1340,Valentim Rocha,54,Roma,3ª Classe,448.42,11,12,Carteira
+1341,Dr. Pedro Miguel Pimenta,53,Londres,1ª Classe,414.97,19,21,Carteira
+1342,Lucas Gabriel Rezende,30,Paris,2ª Classe,149.07,13,15,Chocolate
+1343,Pietro da Paz,22,Roma,1ª Classe,190.64,10,11,Jornal
+1344,Leonardo Melo,44,Roma,1ª Classe,494.9,12,14,Boné
+1345,Srta. Bárbara da Rocha,22,Roma,1ª Classe,73.67,13,15,Boné
+1346,Srta. Elisa da Rocha,63,Roma,1ª Classe,305.82,14,15,Boné
+1347,Valentina Carvalho,61,Roma,2ª Classe,108.83,12,14,Carteira
+1348,Esther Moura,43,Madri,1ª Classe,267.67,19,21,Boné
+1349,Rebeca Andrade,54,Paris,3ª Classe,54.64,20,22,Jornal
+1350,Marcela Porto,63,Berlim,2ª Classe,310.38,22,23,Boné
+1351,Enzo Leão,29,Madri,3ª Classe,221.72,16,17,Chocolate
+1352,Dr. Davi Lucas da Mata,24,Roma,3ª Classe,473.39,13,14,Jornal
+1353,Diego Caldeira,58,Madri,2ª Classe,336.66,11,12,Celular
+1354,Yan da Mota,44,Madri,1ª Classe,497.71,11,12,Boné
+1355,Vinícius Oliveira,67,Berlim,2ª Classe,230.96,14,15,Boné
+1356,Nina Sousa,47,Paris,1ª Classe,323.04,20,22,Boné
+1357,Carlos Eduardo Nascimento,65,Roma,1ª Classe,204.37,10,12,Carteira
+1358,Ana Julia da Conceição,26,Berlim,3ª Classe,376.85,17,19,Carteira
+1359,Marcelo Cardoso,53,Londres,3ª Classe,475.51,12,14,Celular
+1360,Dr. Luiz Miguel Leão,28,Londres,1ª Classe,307.42,12,14,Carteira
+1361,Hellena Pastor,65,Roma,1ª Classe,48.02,22,23,Chocolate
+1362,Raquel Lima,27,Roma,2ª Classe,97.19,21,22,Celular
+1363,Mathias Cunha,52,Londres,2ª Classe,351.4,20,21,Boné
+1364,Sr. Davi Luiz Sá,37,Roma,1ª Classe,303.12,10,12,Celular
+1365,Yuri Moraes,33,Berlim,1ª Classe,107.99,10,12,Carteira
+1366,Laís da Conceição,18,Berlim,1ª Classe,343.18,11,12,Faca
+1367,Theodoro Moraes,24,Londres,3ª Classe,91.85,16,17,Celular
+1368,Elisa Souza,38,Madri,3ª Classe,102.88,13,15,Celular
+1369,Mateus Vargas,25,Londres,1ª Classe,61.88,15,16,Carteira
+1370,Murilo Monteiro,59,Berlim,1ª Classe,200.7,17,18,Carteira
+1371,Daniel Nogueira,70,Berlim,3ª Classe,315.72,10,11,Celular
+1372,Dra. Rebeca Rodrigues,44,Berlim,3ª Classe,254.79,11,12,Jornal
+1373,João Pedro Peixoto,24,Madri,2ª Classe,490.89,21,23,Chocolate
+1374,Lavínia Lima,67,Londres,2ª Classe,95.91,22,24,Bengala
+1375,Davi Souza,60,Roma,1ª Classe,174.2,19,21,Boné
+1376,Vitor Hugo Cassiano,58,Londres,3ª Classe,297.86,10,11,Carteira
+1377,Daniel Sá,66,Paris,2ª Classe,125.83,16,17,Chocolate
+1378,Mariana Moraes,21,Londres,2ª Classe,254.38,13,14,Jornal
+1379,Sra. Milena Cirino,59,Paris,1ª Classe,462.47,19,21,Chocolate
+1380,Dr. Levi Barbosa,39,Londres,2ª Classe,165.59,22,23,Boné
+1381,Maria Isis Cirino,44,Berlim,1ª Classe,122.21,21,23,Jornal
+1382,Luan da Costa,31,Madri,1ª Classe,454.25,20,21,Celular
+1383,Maria Cecília Freitas,62,Londres,3ª Classe,437.63,18,20,Carteira
+1384,Luiz Henrique Pereira,58,Paris,1ª Classe,436.23,11,12,Carteira
+1385,Olívia Moreira,27,Londres,1ª Classe,54.96,19,20,Jornal
+1386,Antônio Jesus,23,Roma,3ª Classe,238.87,12,13,Jornal
+1387,Yan Oliveira,29,Madri,1ª Classe,158.52,19,21,Bengala
+1388,Marcos Vinicius da Luz,30,Berlim,2ª Classe,49.21,15,17,Boné
+1389,Pietro Freitas,48,Roma,2ª Classe,257.59,21,23,Celular
+1390,Maria Sophia Borges,70,Roma,1ª Classe,383.35,16,17,Celular
+1391,Ana Júlia Duarte,37,Madri,3ª Classe,84.87,21,22,Jornal
+1392,Bárbara Nogueira,47,Berlim,2ª Classe,148.78,18,20,Carteira
+1393,Benício Sousa,26,Roma,1ª Classe,85.81,13,14,Carteira
+1394,Esther Nogueira,50,Berlim,2ª Classe,208.23,16,18,Bengala
+1395,Maysa Sampaio,41,Roma,2ª Classe,160.83,19,20,Boné
+1396,Calebe Pinto,20,Paris,2ª Classe,466.74,12,13,Celular
+1397,Juliana Fonseca,34,Berlim,3ª Classe,357.47,20,22,Chocolate
+1398,Matheus Nunes,59,Roma,2ª Classe,370.48,13,15,Carteira
+1399,Luara Pacheco,70,Berlim,3ª Classe,356.21,10,11,Jornal
+1400,Olivia Cavalcanti,47,Londres,2ª Classe,131.23,19,20,Carteira
+1401,Dra. Alícia Casa Grande,67,Paris,3ª Classe,358.69,16,18,Chocolate
+1402,Dante Aragão,23,Madri,1ª Classe,439.24,12,14,Jornal
+1403,Josué Cavalcante,37,Madri,3ª Classe,332.66,16,18,Chocolate
+1404,Gabriela Souza,66,Paris,1ª Classe,321.73,22,24,Celular
+1405,Maria Júlia Pastor,35,Londres,3ª Classe,205.01,14,15,Bastão de Caminhada
+1406,Liz Barros,70,Roma,1ª Classe,57.47,22,24,Boné
+1407,Lucas Gabriel Cavalcante,59,Berlim,3ª Classe,221.17,12,14,Carteira
+1408,Sr. Marcos Vinicius Gonçalves,26,Londres,2ª Classe,99.17,11,13,Chocolate
+1409,Brayan Aparecida,31,Londres,1ª Classe,38.9,12,13,Jornal
+1410,Isis da Paz,44,Roma,3ª Classe,457.36,11,12,Carteira
+1411,Srta. Ana Lívia Marques,23,Roma,1ª Classe,145.61,15,16,Chocolate
+1412,Joana Cavalcante,48,Roma,3ª Classe,382.66,10,11,Jornal
+1413,Bernardo Cassiano,18,Madri,1ª Classe,57.45,18,19,Jornal
+1414,Cecília Ferreira,51,Berlim,2ª Classe,241.88,15,17,Jornal
+1415,Laís da Luz,61,Berlim,2ª Classe,410.26,15,17,Boné
+1416,Sra. Ana Laura Viana,21,Berlim,2ª Classe,405.07,10,12,Celular
+1417,Isabelly Aragão,43,Londres,1ª Classe,304.94,18,20,Faca
+1418,Isadora Barros,66,Londres,2ª Classe,231.44,20,22,Boné
+1419,Danilo Barbosa,60,Londres,1ª Classe,493.23,15,16,Chocolate
+1420,Gabriela Mendes,20,Berlim,3ª Classe,227.71,19,21,Boné
+1421,Jade Borges,57,Paris,2ª Classe,219.68,17,18,Chocolate
+1422,Ryan da Mata,36,Madri,1ª Classe,358.85,18,19,Carteira
+1423,Yuri Montenegro,68,Paris,2ª Classe,417.85,18,20,Carteira
+1424,Dra. Lavínia Martins,46,Paris,2ª Classe,334.69,13,14,Jornal
+1425,Kevin Cavalcanti,66,Paris,1ª Classe,223.1,21,22,Carteira
+1426,Emanuel da Mota,38,Roma,2ª Classe,117.98,14,16,Faca
+1427,Isabella Dias,60,Paris,3ª Classe,76.52,18,20,Carteira
+1428,Manuela Pastor,62,Berlim,1ª Classe,466.57,22,23,Chocolate
+1429,Marina Andrade,42,Roma,3ª Classe,324.63,18,20,Celular
+1430,Lorenzo Azevedo,32,Berlim,1ª Classe,152.58,11,12,Jornal
+1431,Davi Lucas Carvalho,55,Londres,3ª Classe,471.58,19,21,Carteira
+1432,Dr. Lorenzo Siqueira,38,Roma,3ª Classe,371.09,14,15,Chocolate
+1433,Noah das Neves,30,Roma,2ª Classe,166.63,15,16,Boné
+1434,Lívia Gomes,56,Madri,1ª Classe,62.23,10,12,Jornal
+1435,Oliver Casa Grande,70,Berlim,1ª Classe,254.92,17,18,Chocolate
+1436,Bianca Freitas,27,Paris,3ª Classe,166.87,18,19,Jornal
+1437,Matteo Machado,63,Madri,2ª Classe,319.23,13,15,Jornal
+1438,Helena Pimenta,42,Paris,2ª Classe,84.82,21,22,Celular
+1439,Pedro Miguel Cassiano,69,Londres,3ª Classe,370.51,22,23,Celular
+1440,Larissa Melo,64,Roma,2ª Classe,492.35,20,21,Bastão de Caminhada
+1441,Miguel Abreu,53,Roma,2ª Classe,216.99,17,19,Celular
+1442,Lucas Rocha,43,Paris,3ª Classe,366.11,14,15,Chocolate
+1443,Srta. Nina Pastor,53,Roma,1ª Classe,74.14,22,23,Celular
+1444,Dr. José Miguel Machado,63,Berlim,2ª Classe,330.77,19,20,Boné
+1445,Sr. Mathias da Rocha,48,Berlim,1ª Classe,112.79,22,23,Chocolate
+1446,Sra. Jade Caldeira,18,Berlim,3ª Classe,429.51,11,12,Jornal
+1447,Dra. Bárbara Cavalcanti,45,Londres,1ª Classe,57.06,17,18,Faca
+1448,Luiz Felipe Casa Grande,25,Madri,3ª Classe,175.86,16,17,Chocolate
+1449,Maria Helena da Cruz,43,Londres,1ª Classe,68.21,16,18,Jornal
+1450,Marina da Costa,56,Londres,3ª Classe,375.15,22,23,Celular
+1451,Dr. José Miguel Lopes,70,Roma,2ª Classe,319.84,17,19,Carteira
+1452,Davi Lucca Siqueira,25,Paris,1ª Classe,249.72,20,21,Carteira
+1453,Vitor Hugo Campos,54,Madri,2ª Classe,144.13,21,22,Celular
+1454,Ana Julia Rios,29,Roma,2ª Classe,499.98,21,23,Jornal
+1455,Sra. Agatha Gonçalves,26,Paris,2ª Classe,41.11,22,23,Boné
+1456,Bianca Martins,62,Paris,2ª Classe,282.47,18,20,Carteira
+1457,Arthur Santos,55,Madri,3ª Classe,411.23,20,21,Chocolate
+1458,Bernardo Siqueira,31,Paris,1ª Classe,432.38,21,22,Carteira
+1459,Valentina Rios,46,Berlim,1ª Classe,29.18,19,20,Chocolate
+1460,Rafael Andrade,23,Madri,2ª Classe,427.21,10,11,Bengala
+1461,Aurora Moreira,50,Berlim,2ª Classe,483.48,12,14,Bengala
+1462,Ayla Mendonça,60,Paris,1ª Classe,157.29,18,20,Chocolate
+1463,Dra. Sara Novais,46,Londres,3ª Classe,250.32,15,17,Chocolate
+1464,Ravy Souza,50,Londres,3ª Classe,58.51,10,11,Carteira
+1465,Lunna Câmara,27,Berlim,1ª Classe,479.14,19,20,Chocolate
+1466,Luiz Gustavo da Cunha,35,Londres,3ª Classe,314.93,11,13,Jornal
+1467,Sr. Davi Lucas Moraes,59,Londres,2ª Classe,233.47,14,16,Celular
+1468,Srta. Bianca Costela,27,Madri,1ª Classe,44.57,21,23,Bastão de Caminhada
+1469,Sr. Kaique Cavalcante,62,Londres,3ª Classe,192.35,20,21,Boné
+1470,Ian Rocha,27,Berlim,2ª Classe,195.68,19,20,Carteira
+1471,Luiz Fernando Araújo,25,Madri,1ª Classe,345.15,16,17,Jornal
+1472,Maria Isis Martins,23,Berlim,2ª Classe,391.25,12,13,Jornal
+1473,Ravi Lucca Porto,24,Roma,1ª Classe,195.53,11,12,Carteira
+1474,Sr. João Gabriel Aparecida,64,Berlim,3ª Classe,412.46,17,18,Boné
+1475,Hadassa Albuquerque,62,Madri,2ª Classe,280.26,19,20,Celular
+1476,Luigi Martins,28,Berlim,2ª Classe,98.53,22,24,Boné
+1477,Carlos Eduardo Ribeiro,26,Berlim,1ª Classe,346.46,21,22,Chocolate
+1478,Sr. Calebe Nascimento,27,Roma,3ª Classe,370.36,10,12,Chocolate
+1479,Clarice Cirino,33,Madri,2ª Classe,356.33,12,14,Bastão de Caminhada
+1480,Ravi Barbosa,69,Roma,3ª Classe,150.54,16,17,Jornal
+1481,Ayla Borges,23,Berlim,2ª Classe,387.58,11,12,Carteira
+1482,Sara Melo,33,Paris,1ª Classe,291.91,11,13,Boné
+1483,Isaac da Cruz,49,Paris,2ª Classe,341.75,21,22,Boné
+1484,Bianca Azevedo,50,Madri,3ª Classe,71.1,10,11,Celular
+1485,Dra. Elisa Pinto,65,Paris,3ª Classe,218.24,18,20,Jornal
+1486,Marcela Oliveira,65,Madri,3ª Classe,308.5,19,21,Bengala
+1487,João Lucas Pinto,61,Madri,1ª Classe,95.66,15,16,Boné
+1488,Dr. Otávio Albuquerque,21,Roma,2ª Classe,195.76,15,16,Jornal
+1489,Asafe Camargo,61,Londres,3ª Classe,426.88,11,13,Jornal
+1490,Luana Barbosa,36,Berlim,1ª Classe,11.09,20,22,Jornal
+1491,Sr. Rael Cavalcante,37,Madri,1ª Classe,468.35,19,21,Carteira
+1492,Bryan da Luz,18,Madri,2ª Classe,170.99,15,16,Carteira
+1493,Evelyn Ferreira,64,Londres,2ª Classe,183.72,11,13,Boné
+1494,Luiz Fernando Machado,23,Madri,3ª Classe,450.27,16,17,Celular
+1495,Vinícius Pires,18,Londres,3ª Classe,132.57,17,19,Jornal
+1496,Amanda Melo,41,Roma,1ª Classe,272.85,14,15,Bastão de Caminhada
+1497,Srta. Isabelly Novaes,60,Roma,1ª Classe,78.54,21,23,Carteira
+1498,Isabel Moreira,63,Londres,1ª Classe,102.89,10,11,Boné
+1499,Brayan Farias,65,Berlim,1ª Classe,88.55,13,15,Faca
+1500,Jade das Neves,35,Paris,2ª Classe,249.64,17,18,Jornal
+1501,Aurora Gomes,66,Roma,3ª Classe,365.74,21,23,Carteira
+1502,Luiza Cavalcanti,24,Paris,1ª Classe,86.22,18,19,Celular
+1503,Srta. Melissa Martins,33,Paris,3ª Classe,416.62,16,17,Boné
+1504,Maria Isis Costa,36,Berlim,2ª Classe,50.48,16,17,Chocolate
+1505,Gabrielly Marques,64,Madri,1ª Classe,132.24,22,23,Celular
+1506,Calebe Jesus,62,Londres,3ª Classe,412.1,13,15,Chocolate
+1507,Laís Azevedo,69,Paris,3ª Classe,367.92,19,20,Carteira
+1508,Isis das Neves,55,Londres,1ª Classe,69.03,16,17,Jornal
+1509,Alexandre Casa Grande,30,Londres,2ª Classe,18.65,13,14,Celular
+1510,Breno Dias,42,Roma,3ª Classe,160.16,20,21,Jornal
+1511,Maria Júlia Casa Grande,45,Roma,1ª Classe,259.83,20,21,Jornal
+1512,Srta. Eduarda Mendonça,35,Berlim,2ª Classe,472.07,21,23,Jornal
+1513,Maria Laura Ribeiro,21,Londres,1ª Classe,10.26,20,22,Jornal
+1514,Apollo Guerra,48,Berlim,3ª Classe,59.37,12,14,Faca
+1515,Dr. João Felipe Campos,41,Berlim,2ª Classe,64.65,20,21,Chocolate
+1516,Dr. Arthur Miguel Machado,67,Londres,2ª Classe,186.68,22,24,Chocolate
+1517,Rael Viana,55,Madri,3ª Classe,192.08,20,22,Jornal
+1518,Maria Isis da Mota,42,Paris,1ª Classe,73.94,21,22,Carteira
+1519,Alexia Rodrigues,59,Londres,1ª Classe,355.28,11,12,Celular
+1520,Valentim Lima,57,Berlim,2ª Classe,365.42,22,23,Boné
+1521,Sra. Stella Ribeiro,27,Paris,1ª Classe,103.94,18,20,Celular
+1522,Felipe Nunes,66,Madri,2ª Classe,448.51,17,18,Celular
+1523,Sra. Olivia Alves,22,Roma,2ª Classe,266.64,18,19,Carteira
+1524,Luísa da Paz,35,Londres,2ª Classe,32.27,19,20,Celular
+1525,Matheus Lopes,62,Londres,3ª Classe,409.12,17,18,Carteira
+1526,José Pedro Pinto,66,Madri,2ª Classe,285.62,16,18,Chocolate
+1527,Emilly Sousa,31,Londres,1ª Classe,88.4,13,14,Celular
+1528,Dr. Vitor Gabriel Cavalcanti,68,Madri,2ª Classe,256.87,21,23,Jornal
+1529,Srta. Manuela da Conceição,32,Berlim,3ª Classe,141.57,11,12,Jornal
+1530,Kevin Fogaça,52,Londres,2ª Classe,29.15,12,14,Celular
+1531,Igor Marques,35,Paris,3ª Classe,490.21,13,14,Carteira
+1532,Bernardo Caldeira,40,Madri,2ª Classe,169.04,21,23,Chocolate
+1533,Sabrina Caldeira,44,Madri,2ª Classe,169.07,10,11,Celular
+1534,Guilherme Rezende,32,Berlim,1ª Classe,135.43,10,11,Chocolate
+1535,Maria Almeida,62,Roma,3ª Classe,136.1,20,21,Celular
+1536,Marcela Siqueira,32,Berlim,2ª Classe,109.92,20,22,Carteira
+1537,Bruno da Conceição,32,Roma,2ª Classe,82.68,17,18,Boné
+1538,Dr. Luiz Miguel Martins,47,Londres,1ª Classe,102.54,17,18,Chocolate
+1539,Rodrigo Sá,19,Berlim,1ª Classe,443.77,16,17,Carteira
+1540,Rebeca Fernandes,22,Roma,1ª Classe,232.96,20,22,Carteira
+1541,Mateus Lopes,51,Londres,3ª Classe,377.72,10,11,Boné
+1542,Letícia Cavalcante,19,Paris,1ª Classe,384.09,20,21,Carteira
+1543,Dr. Antônio Carvalho,67,Paris,2ª Classe,79.89,20,21,Celular
+1544,Davi Miguel Brito,18,Paris,3ª Classe,370.7,15,16,Jornal
+1545,Milena Martins,48,Madri,2ª Classe,409.58,14,16,Boné
+1546,Dra. Maria Flor das Neves,33,Paris,3ª Classe,349.1,20,21,Carteira
+1547,Srta. Bruna Teixeira,20,Paris,3ª Classe,155.4,18,20,Carteira
+1548,Letícia Machado,32,Paris,1ª Classe,219.3,12,14,Chocolate
+1549,Rafael Mendonça,32,Roma,3ª Classe,443.27,11,13,Carteira
+1550,João Jesus,25,Londres,1ª Classe,478.67,14,16,Carteira
+1551,Dr. Bryan Lopes,39,Paris,2ª Classe,462.43,11,12,Chocolate
+1552,Dr. João Lucas Freitas,29,Roma,3ª Classe,174.07,12,14,Carteira
+1553,Vitor Monteiro,60,Berlim,3ª Classe,410.61,15,16,Jornal
+1554,Antony Sales,49,Berlim,2ª Classe,407.25,21,22,Celular
+1555,Davi Lucca Monteiro,27,Londres,2ª Classe,82.41,17,19,Celular
+1556,Ísis Barros,25,Madri,2ª Classe,480.2,14,15,Carteira
+1557,Luigi da Paz,26,Londres,2ª Classe,182.78,17,19,Boné
+1558,Dra. Maria Liz Borges,44,Madri,3ª Classe,173.4,22,23,Boné
+1559,Sra. Isabella Gomes,53,Roma,3ª Classe,271.55,18,19,Boné
+1560,Levi Moraes,55,Roma,3ª Classe,293.16,21,22,Chocolate
+1561,Srta. Maysa Araújo,33,Berlim,1ª Classe,109.61,10,12,Boné
+1562,Marcelo da Luz,26,Paris,1ª Classe,456.57,15,16,Jornal
+1563,Raquel Costela,27,Madri,2ª Classe,128.82,13,14,Chocolate
+1564,Laís Almeida,25,Londres,2ª Classe,369.21,21,23,Jornal
+1565,Gael Pimenta,62,Paris,3ª Classe,294.99,17,18,Carteira
+1566,Raul Brito,41,Londres,1ª Classe,130.07,10,12,Carteira
+1567,Heloísa Dias,29,Roma,3ª Classe,78.66,18,20,Boné
+1568,Ayla Costa,64,Berlim,2ª Classe,392.88,21,22,Jornal
+1569,Luiz Fernando Pimenta,27,Paris,3ª Classe,25.74,22,23,Boné
+1570,Sr. João Pereira,18,Roma,2ª Classe,343.15,17,19,Celular
+1571,Vitor Hugo Rios,50,Berlim,3ª Classe,121.38,12,14,Bengala
+1572,Breno Castro,51,Roma,1ª Classe,374.14,16,17,Jornal
+1573,Helena Cardoso,29,Madri,3ª Classe,422.44,21,23,Boné
+1574,José da Cruz,59,Roma,2ª Classe,90.76,22,24,Chocolate
+1575,João Pedro Sousa,30,Berlim,1ª Classe,61.16,15,17,Carteira
+1576,Calebe Silva,36,Londres,3ª Classe,62.17,13,14,Celular
+1577,Dr. Davi Miguel Barros,37,Londres,3ª Classe,108.85,10,11,Jornal
+1578,Mariane da Mota,54,Madri,1ª Classe,286.23,22,24,Carteira
+1579,Davi Miguel Araújo,38,Paris,2ª Classe,14.15,15,17,Faca
+1580,Asafe da Rosa,50,Londres,2ª Classe,378.4,21,23,Bengala
+1581,Raquel Fernandes,62,Paris,2ª Classe,209.57,21,22,Boné
+1582,Sr. Lucca Leão,67,Londres,1ª Classe,297.72,16,18,Chocolate
+1583,Igor Duarte,20,Berlim,1ª Classe,84.25,17,18,Celular
+1584,Sr. Lorenzo Jesus,23,Londres,1ª Classe,405.66,20,21,Celular
+1585,João Miguel Montenegro,28,Madri,3ª Classe,496.22,19,21,Boné
+1586,Valentim Melo,26,Berlim,2ª Classe,186.56,16,17,Celular
+1587,Allana Leão,67,Roma,1ª Classe,112.32,19,20,Faca
+1588,Maria Luiza Pacheco,54,Roma,1ª Classe,404.32,12,14,Boné
+1589,Sr. Fernando Araújo,69,Paris,2ª Classe,56.12,15,16,Celular
+1590,Bárbara da Rocha,28,Paris,2ª Classe,292.49,15,16,Carteira
+1591,Nicolas Câmara,63,Roma,2ª Classe,493.21,14,16,Chocolate
+1592,Theodoro Fonseca,26,Paris,3ª Classe,249.25,15,17,Boné
+1593,Thomas Macedo,57,Londres,2ª Classe,189.7,19,21,Jornal
+1594,Mariah Câmara,61,Roma,3ª Classe,230.55,20,21,Chocolate
+1595,Bento Rocha,59,Paris,3ª Classe,397.39,21,22,Carteira
+1596,Breno Nascimento,24,Berlim,2ª Classe,87.52,16,17,Jornal
+1597,Marcos Vinicius Rios,47,Paris,2ª Classe,238.28,20,22,Carteira
+1598,Liam Duarte,29,Paris,2ª Classe,386.43,13,15,Jornal
+1599,Paulo Carvalho,38,Berlim,3ª Classe,248.28,21,23,Carteira
+1600,Otto Rocha,47,Paris,3ª Classe,86.31,17,18,Chocolate
+1601,Bárbara Alves,38,Madri,1ª Classe,494.03,22,24,Carteira
+1602,Luiza Albuquerque,69,Berlim,2ª Classe,489.49,13,14,Jornal
+1603,Pedro Miguel Cavalcanti,19,Roma,2ª Classe,133.51,12,13,Carteira
+1604,João da Cunha,35,Roma,1ª Classe,156.19,21,23,Celular
+1605,Léo Dias,51,Londres,3ª Classe,447.61,12,13,Carteira
+1606,Clarice Peixoto,45,Berlim,2ª Classe,90.62,15,17,Boné
+1607,Miguel Vargas,52,Londres,3ª Classe,224.02,21,23,Celular
+1608,Alícia Aragão,53,Madri,1ª Classe,48.13,20,21,Jornal
+1609,Dr. João Alves,70,Berlim,1ª Classe,83.75,17,18,Boné
+1610,Sophie Rocha,38,Paris,3ª Classe,209.13,18,19,Bastão de Caminhada
+1611,Brayan Andrade,26,Roma,3ª Classe,485.03,11,12,Jornal
+1612,Milena Sampaio,30,Roma,3ª Classe,277.58,12,14,Jornal
+1613,Bruno da Paz,31,Londres,3ª Classe,292.65,10,12,Celular
+1614,Sr. Erick Viana,19,Berlim,2ª Classe,256.02,11,13,Chocolate
+1615,Laís da Cunha,47,Roma,2ª Classe,182.35,18,20,Boné
+1616,Leandro Nunes,66,Berlim,1ª Classe,463.91,17,19,Jornal
+1617,Sr. Caleb Pinto,53,Madri,1ª Classe,275.95,16,18,Celular
+1618,Vinícius Duarte,62,Roma,3ª Classe,148.79,19,20,Bastão de Caminhada
+1619,Ana Luiza Almeida,69,Paris,1ª Classe,328.32,19,21,Carteira
+1620,Ana Clara Pastor,65,Madri,3ª Classe,58.85,17,18,Chocolate
+1621,Sra. Sofia Gonçalves,44,Londres,1ª Classe,390.67,18,20,Carteira
+1622,Oliver Sousa,48,Paris,2ª Classe,484.13,17,19,Celular
+1623,Sra. Antonella Gonçalves,59,Roma,1ª Classe,470.41,22,23,Boné
+1624,José Gonçalves,35,Berlim,2ª Classe,420.86,22,24,Chocolate
+1625,Dr. Rhavi Correia,18,Roma,1ª Classe,17.61,12,14,Celular
+1626,Maria Vitória Peixoto,51,Madri,2ª Classe,174.19,19,21,Jornal
+1627,Dom Mendes,43,Londres,3ª Classe,325.77,10,12,Carteira
+1628,Sr. Kevin Ribeiro,58,Roma,3ª Classe,95.12,15,16,Boné
+1629,Srta. Maria Fernanda Azevedo,24,Londres,3ª Classe,68.0,19,21,Celular
+1630,Kevin Ramos,58,Berlim,3ª Classe,87.94,15,16,Carteira
+1631,Sr. Mathias Alves,19,Roma,1ª Classe,318.16,19,20,Carteira
+1632,Theodoro Nunes,63,Madri,1ª Classe,290.18,10,11,Bastão de Caminhada
+1633,Sr. Francisco Barros,58,Berlim,1ª Classe,127.46,13,15,Jornal
+1634,Olívia Oliveira,33,Roma,2ª Classe,333.04,14,15,Celular
+1635,Vinicius Lima,58,Paris,3ª Classe,492.55,11,12,Boné
+1636,Augusto Ribeiro,56,Paris,1ª Classe,79.5,14,15,Carteira
+1637,Breno Cirino,49,Berlim,1ª Classe,201.49,17,18,Boné
+1638,Mariah Teixeira,49,Paris,1ª Classe,346.79,16,18,Chocolate
+1639,Lunna Aragão,46,Londres,1ª Classe,156.39,12,13,Carteira
+1640,Rebeca da Paz,39,Berlim,2ª Classe,497.51,19,20,Carteira
+1641,Dr. Renan Vargas,65,Berlim,1ª Classe,104.49,10,11,Boné
+1642,Dr. Henry Gabriel Freitas,66,Londres,1ª Classe,434.77,11,12,Carteira
+1643,Maria Luísa Carvalho,26,Londres,1ª Classe,366.59,12,14,Jornal
+1644,Fernando da Paz,30,Paris,2ª Classe,356.96,20,22,Boné
+1645,Dr. Murilo Costa,69,Roma,2ª Classe,261.2,16,17,Jornal
+1646,Hadassa Costa,30,Berlim,2ª Classe,60.42,22,24,Carteira
+1647,João Guilherme Mendonça,31,Roma,2ª Classe,442.6,16,18,Celular
+1648,Dr. João Lucas Porto,57,Paris,3ª Classe,197.69,13,15,Jornal
+1649,Dr. Rael Moraes,58,Paris,2ª Classe,91.95,10,12,Chocolate
+1650,Isadora Sá,36,Madri,3ª Classe,475.69,18,20,Boné
+1651,João Lucas Azevedo,25,Londres,2ª Classe,220.4,12,14,Jornal
+1652,Srta. Allana Azevedo,31,Berlim,2ª Classe,81.07,15,16,Carteira
+1653,Gustavo Cunha,62,Paris,3ª Classe,171.15,17,19,Celular
+1654,João Felipe Castro,53,Paris,2ª Classe,148.97,13,14,Carteira
+1655,Bella Azevedo,35,Madri,3ª Classe,46.66,20,22,Chocolate
+1656,Luiza Leão,45,Berlim,2ª Classe,107.09,10,12,Boné
+1657,Dra. Lavínia Santos,35,Roma,1ª Classe,70.81,12,14,Chocolate
+1658,Luiza Brito,33,Madri,1ª Classe,149.67,20,21,Celular
+1659,Sr. Yago Barbosa,36,Londres,2ª Classe,28.13,18,19,Jornal
+1660,Luiz Fernando Melo,19,Paris,2ª Classe,56.61,22,24,Chocolate
+1661,Daniela da Luz,35,Berlim,2ª Classe,206.17,18,20,Boné
+1662,Otávio das Neves,21,Roma,2ª Classe,351.26,17,19,Celular
+1663,Melina Albuquerque,25,Berlim,3ª Classe,60.34,13,14,Celular
+1664,Dr. Anthony Gabriel Ribeiro,26,Paris,2ª Classe,432.08,21,23,Jornal
+1665,Maria Cecília Viana,23,Londres,3ª Classe,452.12,15,16,Celular
+1666,Eloá Gonçalves,21,Berlim,1ª Classe,64.29,14,15,Jornal
+1667,Ana Lívia Cirino,62,Madri,2ª Classe,142.26,12,13,Chocolate
+1668,Dra. Evelyn das Neves,25,Londres,2ª Classe,432.33,22,24,Chocolate
+1669,Heloisa Cassiano,60,Paris,3ª Classe,268.52,19,21,Chocolate
+1670,Natália Sampaio,35,Berlim,3ª Classe,246.53,11,13,Celular
+1671,Esther Mendonça,63,Paris,2ª Classe,283.67,13,14,Chocolate
+1672,Théo Camargo,22,Roma,1ª Classe,114.11,20,21,Boné
+1673,Eduarda Vargas,42,Londres,2ª Classe,61.22,13,15,Celular
+1674,Srta. Maysa Vargas,37,Roma,3ª Classe,85.46,18,19,Celular
+1675,Rafaela Nogueira,32,Berlim,2ª Classe,487.78,19,20,Celular
+1676,Samuel Pereira,30,Paris,2ª Classe,217.32,20,22,Faca
+1677,Srta. Melina Leão,54,Paris,1ª Classe,235.87,11,12,Jornal
+1678,Luna Pires,47,Londres,2ª Classe,24.01,20,22,Jornal
+1679,Ana Laura Araújo,25,Madri,1ª Classe,183.67,13,14,Boné
+1680,Gustavo Souza,45,Madri,2ª Classe,36.05,14,16,Carteira
+1681,Maria Luísa Costa,59,Roma,3ª Classe,464.73,13,15,Jornal
+1682,Isabela Nascimento,29,Madri,2ª Classe,269.49,17,19,Carteira
+1683,Maria Flor da Paz,21,Londres,1ª Classe,117.59,10,11,Chocolate
+1684,Sra. Luara Fonseca,33,Paris,3ª Classe,59.51,13,15,Boné
+1685,Thiago Souza,24,Londres,3ª Classe,413.79,21,23,Boné
+1686,Ana Clara Aparecida,28,Londres,2ª Classe,322.08,21,23,Chocolate
+1687,Isis Andrade,24,Londres,3ª Classe,454.81,19,21,Chocolate
+1688,Ester Sales,62,Londres,1ª Classe,164.41,11,12,Carteira
+1689,Sra. Marina Barros,47,Londres,1ª Classe,336.36,16,18,Carteira
+1690,Allana Peixoto,34,Paris,1ª Classe,342.81,10,12,Bengala
+1691,Bárbara da Rocha,55,Paris,2ª Classe,437.88,17,18,Carteira
+1692,Antony Sousa,19,Madri,3ª Classe,495.3,13,14,Celular
+1693,Milena Sá,67,Paris,1ª Classe,159.26,21,23,Boné
+1694,Sra. Rebeca Aparecida,65,Berlim,3ª Classe,136.1,17,19,Jornal
+1695,Diogo Pacheco,18,Berlim,2ª Classe,357.98,18,20,Carteira
+1696,Maria Flor Machado,61,Madri,3ª Classe,323.5,12,14,Celular
+1697,Sr. João Guilherme Camargo,60,Londres,2ª Classe,253.94,13,15,Jornal
+1698,Sra. Lavínia da Cunha,65,Paris,1ª Classe,461.12,16,17,Bengala
+1699,Davi Costela,58,Madri,2ª Classe,493.79,18,19,Jornal
+1700,Sr. Davi Luiz da Mota,61,Berlim,2ª Classe,201.6,16,18,Jornal
+1701,Isaque Jesus,20,Madri,3ª Classe,353.9,19,20,Boné
+1702,Bruna Siqueira,47,Madri,2ª Classe,151.32,10,12,Celular
+1703,Alexandre Novaes,27,Roma,3ª Classe,83.61,14,15,Jornal
+1704,Srta. Alice Pinto,36,Paris,2ª Classe,17.64,10,11,Jornal
+1705,Hadassa Teixeira,55,Paris,1ª Classe,249.3,10,12,Jornal
+1706,Felipe Cassiano,18,Paris,2ª Classe,77.48,14,15,Faca
+1707,José Machado,63,Berlim,1ª Classe,498.0,13,15,Chocolate
+1708,Ana Sophia Vargas,23,Berlim,1ª Classe,25.75,15,16,Celular
+1709,Alice Nascimento,58,Roma,2ª Classe,205.57,11,13,Celular
+1710,Sr. Mateus da Rocha,56,Berlim,1ª Classe,286.31,20,22,Celular
+1711,Davi Luiz Araújo,26,Londres,2ª Classe,76.49,18,19,Jornal
+1712,Sra. Heloísa Gomes,23,Berlim,3ª Classe,464.29,17,18,Jornal
+1713,Eduarda Silveira,45,Paris,1ª Classe,268.02,21,23,Boné
+1714,Dr. Thomas Nascimento,61,Berlim,2ª Classe,183.55,17,19,Faca
+1715,Alícia Borges,47,Paris,3ª Classe,22.95,22,24,Carteira
+1716,Maria Júlia Moraes,26,Madri,2ª Classe,395.45,19,21,Carteira
+1717,Luan Costa,52,Madri,2ª Classe,36.23,16,17,Boné
+1718,Luiz Henrique Montenegro,18,Roma,3ª Classe,235.51,10,11,Carteira
+1719,Julia Pinto,59,Paris,2ª Classe,301.23,14,16,Chocolate
+1720,Jade Cassiano,21,Paris,3ª Classe,296.46,18,19,Chocolate
+1721,Bárbara da Mota,51,Londres,3ª Classe,372.81,17,18,Jornal
+1722,Bryan Souza,61,Londres,2ª Classe,317.84,21,22,Celular
+1723,Vinicius Pimenta,57,Londres,1ª Classe,42.9,12,13,Boné
+1724,Nicolas Albuquerque,33,Londres,1ª Classe,242.13,18,20,Boné
+1725,Alícia Freitas,25,Berlim,2ª Classe,247.02,12,13,Celular
+1726,José da Luz,52,Berlim,3ª Classe,343.85,20,21,Boné
+1727,Melina Montenegro,58,Paris,1ª Classe,79.43,21,22,Carteira
+1728,Mariah Fogaça,65,Madri,1ª Classe,243.32,14,16,Chocolate
+1729,Beatriz Vieira,55,Roma,2ª Classe,337.17,16,18,Chocolate
+1730,Clara Vieira,24,Roma,2ª Classe,408.61,12,13,Jornal
+1731,Dra. Natália Peixoto,25,Madri,2ª Classe,15.4,14,15,Chocolate
+1732,Milena da Rosa,60,Madri,2ª Classe,30.89,15,16,Boné
+1733,Enzo Azevedo,64,Roma,2ª Classe,14.47,12,14,Boné
+1734,Elisa Freitas,50,Londres,2ª Classe,452.25,18,20,Boné
+1735,Anthony Melo,29,Londres,2ª Classe,331.41,19,21,Boné
+1736,Dr. Benjamin Fonseca,68,Londres,2ª Classe,394.63,20,22,Celular
+1737,Gael Henrique Ramos,22,Roma,2ª Classe,481.65,19,20,Chocolate
+1738,Yuri Dias,50,Madri,2ª Classe,73.42,15,17,Chocolate
+1739,Dr. José Miguel Moreira,43,Paris,1ª Classe,24.47,21,22,Jornal
+1740,Larissa Melo,60,Paris,2ª Classe,467.77,17,19,Celular
+1741,Ágatha Barbosa,67,Londres,1ª Classe,450.9,12,14,Celular
+1742,Srta. Letícia Costela,44,Paris,1ª Classe,309.83,11,12,Celular
+1743,Fernanda Jesus,22,Roma,2ª Classe,307.2,10,11,Jornal
+1744,Ana Luiza Marques,62,Roma,2ª Classe,75.28,20,21,Jornal
+1745,Théo Montenegro,49,Roma,3ª Classe,150.18,13,14,Boné
+1746,Fernanda da Paz,51,Londres,1ª Classe,295.23,20,21,Jornal
+1747,Eloá Jesus,69,Londres,1ª Classe,186.18,16,17,Jornal
+1748,Gabriel Alves,61,Madri,2ª Classe,103.17,13,15,Boné
+1749,Bruna Rios,40,Madri,3ª Classe,428.18,22,23,Boné
+1750,Sophie Porto,58,Roma,1ª Classe,288.88,12,14,Carteira
+1751,Laís Vargas,49,Londres,1ª Classe,304.73,15,16,Jornal
+1752,Ana Laura Macedo,36,Berlim,2ª Classe,354.6,11,12,Bengala
+1753,Dra. Mariane Souza,22,Madri,3ª Classe,128.29,18,20,Boné
+1754,Isabela Mendonça,21,Madri,3ª Classe,446.99,19,21,Celular
+1755,Dra. Ana Julia Carvalho,34,Paris,1ª Classe,175.64,14,15,Jornal
+1756,Maria Luiza Nogueira,66,Paris,1ª Classe,110.07,21,23,Celular
+1757,Arthur Santos,60,Paris,1ª Classe,251.84,22,23,Jornal
+1758,Pedro Sousa,22,Roma,3ª Classe,372.25,11,13,Faca
+1759,Maya Casa Grande,35,Paris,1ª Classe,27.44,18,19,Chocolate
+1760,Heloísa da Conceição,45,Roma,2ª Classe,392.96,13,14,Celular
+1761,Sr. Pietro Duarte,19,Londres,3ª Classe,307.99,16,17,Boné
+1762,Luísa da Mota,21,Roma,2ª Classe,350.77,16,18,Boné
+1763,Amanda da Conceição,25,Roma,1ª Classe,449.6,15,17,Jornal
+1764,Ana Clara Oliveira,45,Paris,1ª Classe,123.7,19,20,Jornal
+1765,Dr. Enrico Porto,65,Madri,3ª Classe,32.43,22,23,Celular
+1766,Alana Fonseca,33,Paris,1ª Classe,37.76,17,18,Jornal
+1767,Maria Helena Albuquerque,38,Berlim,3ª Classe,331.05,13,15,Carteira
+1768,Srta. Luana Duarte,43,Roma,3ª Classe,69.96,11,12,Jornal
+1769,Juan Almeida,52,Londres,2ª Classe,355.58,15,16,Boné
+1770,Ana Júlia Guerra,37,Berlim,3ª Classe,153.41,20,21,Boné
+1771,Oliver Campos,35,Berlim,3ª Classe,275.3,11,12,Jornal
+1772,José Santos,44,Madri,2ª Classe,147.09,13,14,Celular
+1773,Thomas Silva,51,Londres,2ª Classe,373.54,13,14,Jornal
+1774,Caroline Azevedo,70,Londres,1ª Classe,489.18,21,23,Chocolate
+1775,Luiz Fernando Garcia,47,Paris,1ª Classe,254.46,10,12,Jornal
+1776,Sra. Sofia Melo,42,Berlim,1ª Classe,39.26,19,21,Boné
+1777,Maria Isis Porto,42,Roma,2ª Classe,31.76,13,15,Carteira
+1778,Emanuel Carvalho,45,Madri,1ª Classe,333.6,10,12,Celular
+1779,Augusto Barros,56,Berlim,2ª Classe,407.02,19,20,Celular
+1780,Sr. Vinícius Casa Grande,39,Madri,2ª Classe,434.21,22,23,Celular
+1781,Liam Mendonça,53,Roma,3ª Classe,466.91,14,16,Boné
+1782,Pietra Rocha,64,Madri,3ª Classe,137.45,16,18,Chocolate
+1783,Camila da Mata,33,Londres,1ª Classe,147.54,20,22,Carteira
+1784,Sr. João Casa Grande,33,Madri,2ª Classe,175.39,16,17,Chocolate
+1785,Rodrigo Montenegro,41,Berlim,3ª Classe,132.75,20,21,Carteira
+1786,Maria Helena Pimenta,54,Berlim,2ª Classe,425.32,17,19,Carteira
+1787,Dr. Breno Vieira,18,Roma,1ª Classe,483.28,17,18,Boné
+1788,Juan Pereira,55,Paris,2ª Classe,449.55,18,20,Faca
+1789,Ana Sophia Leão,46,Londres,2ª Classe,385.33,14,16,Celular
+1790,Carlos Eduardo Siqueira,26,Londres,3ª Classe,95.5,19,20,Jornal
+1791,Stephany Moreira,59,Paris,1ª Classe,345.38,17,19,Carteira
+1792,Vitor Gabriel Nunes,63,Londres,1ª Classe,476.33,14,16,Carteira
+1793,Manuella Cassiano,40,Madri,3ª Classe,31.92,13,15,Carteira
+1794,Melina das Neves,50,Roma,1ª Classe,260.41,13,14,Jornal
+1795,Maria Clara Barros,41,Roma,1ª Classe,324.52,14,15,Carteira
+1796,Danilo Moreira,56,Berlim,2ª Classe,487.8,20,22,Boné
+1797,Rafael Ramos,36,Madri,1ª Classe,88.55,10,12,Celular
+1798,Srta. Luísa Azevedo,55,Paris,1ª Classe,308.43,22,24,Boné
+1799,Sr. Davi Lucas Nunes,67,Madri,3ª Classe,359.29,13,15,Celular
+1800,Eduarda Moraes,20,Londres,2ª Classe,383.68,20,21,Faca
+1801,Isadora Teixeira,32,Madri,3ª Classe,498.93,20,22,Boné
+1802,Ana Julia Moura,25,Madri,1ª Classe,307.48,20,22,Jornal
+1803,Enzo Gabriel Caldeira,30,Madri,2ª Classe,456.42,15,16,Celular
+1804,Srta. Marcela Gonçalves,41,Londres,2ª Classe,164.26,11,12,Boné
+1805,Diogo Cardoso,44,Berlim,1ª Classe,182.47,18,19,Celular
+1806,Dr. Henry Araújo,59,Roma,3ª Classe,122.87,22,24,Jornal
+1807,Manuela Costa,70,Londres,3ª Classe,130.02,16,17,Chocolate
+1808,João Guilherme Garcia,68,Berlim,2ª Classe,163.78,11,13,Boné
+1809,Ana Vitória Siqueira,27,Madri,2ª Classe,319.99,22,23,Celular
+1810,Brenda Ribeiro,47,Paris,1ª Classe,69.19,14,16,Chocolate
+1811,Sara Souza,26,Paris,2ª Classe,21.73,12,13,Carteira
+1812,Mariah Ramos,51,Roma,2ª Classe,183.64,16,17,Chocolate
+1813,Ana Cecília Sousa,25,Berlim,2ª Classe,299.82,19,20,Bastão de Caminhada
+1814,Diogo da Paz,20,Paris,3ª Classe,461.15,17,19,Chocolate
+1815,Benício Nascimento,65,Roma,2ª Classe,381.25,21,22,Chocolate
+1816,Lunna Leão,64,Madri,3ª Classe,51.06,10,12,Chocolate
+1817,Valentina Montenegro,47,Roma,2ª Classe,224.91,18,20,Faca
+1818,Ana Julia Duarte,24,Londres,2ª Classe,251.71,10,12,Jornal
+1819,Mirella da Luz,42,Berlim,1ª Classe,477.22,10,11,Boné
+1820,Eloá Lopes,35,Madri,3ª Classe,164.04,15,17,Carteira
+1821,Ana Júlia Montenegro,36,Berlim,2ª Classe,225.07,12,14,Celular
+1822,João Gabriel Caldeira,34,Madri,1ª Classe,463.01,20,22,Carteira
+1823,Maitê Araújo,31,Madri,3ª Classe,379.88,10,11,Faca
+1824,Sophie Rocha,52,Madri,1ª Classe,13.27,10,12,Jornal
+1825,Dra. Bruna da Mota,54,Roma,3ª Classe,227.96,12,14,Jornal
+1826,Bruno Mendes,25,Paris,2ª Classe,445.55,17,19,Carteira
+1827,Luiz Otávio da Conceição,26,Berlim,3ª Classe,337.67,15,16,Chocolate
+1828,Bruno da Rosa,32,Paris,2ª Classe,86.8,15,17,Boné
+1829,Dr. Davi Lucas Pires,65,Madri,3ª Classe,390.75,21,23,Celular
+1830,Luigi Mendonça,20,Roma,1ª Classe,466.86,22,24,Jornal
+1831,Miguel Rodrigues,53,Paris,3ª Classe,317.37,13,14,Chocolate
+1832,Erick Aparecida,32,Londres,2ª Classe,240.36,17,18,Chocolate
+1833,Matheus Rodrigues,36,Londres,1ª Classe,321.04,11,12,Carteira
+1834,Nicole Câmara,22,Roma,3ª Classe,309.5,21,22,Carteira
+1835,Thales Barros,62,Berlim,3ª Classe,196.34,19,20,Chocolate
+1836,Davi Lucas Vieira,48,Madri,3ª Classe,477.62,14,15,Celular
+1837,Lívia Moreira,60,Roma,2ª Classe,400.41,16,18,Boné
+1838,Felipe da Conceição,36,Paris,1ª Classe,65.06,22,24,Boné
+1839,Dr. Mathias Dias,46,Berlim,1ª Classe,334.58,11,12,Boné
+1840,Cauê Fogaça,38,Paris,2ª Classe,351.51,21,22,Celular
+1841,Daniela Melo,48,Roma,3ª Classe,211.88,13,14,Jornal
+1842,Luiz Felipe Montenegro,50,Londres,2ª Classe,39.79,22,24,Jornal
+1843,Dra. Manuella Cavalcante,38,Roma,2ª Classe,406.42,16,18,Jornal
+1844,Ana Julia Albuquerque,21,Berlim,2ª Classe,366.81,15,16,Jornal
+1845,João Felipe Câmara,44,Londres,3ª Classe,439.05,18,19,Celular
+1846,Rhavi Casa Grande,25,Madri,3ª Classe,171.55,19,20,Faca
+1847,Luna Leão,19,Roma,1ª Classe,392.41,15,17,Celular
+1848,Luan Sales,53,Paris,3ª Classe,34.12,13,15,Boné
+1849,Sr. João Vitor Martins,28,Madri,2ª Classe,431.26,13,15,Celular
+1850,Isabelly Marques,41,Berlim,2ª Classe,115.65,21,22,Celular
+1851,Elisa Porto,20,Paris,3ª Classe,60.24,16,18,Carteira
+1852,Benjamim das Neves,36,Berlim,1ª Classe,122.7,22,23,Carteira
+1853,Srta. Raquel Gomes,65,Paris,2ª Classe,331.09,12,14,Celular
+1854,Isaac Machado,22,Paris,3ª Classe,363.84,22,24,Carteira
+1855,Davi Miguel Pastor,65,Madri,3ª Classe,460.3,11,13,Jornal
+1856,Ana Júlia da Mata,56,Berlim,2ª Classe,218.32,21,22,Jornal
+1857,Sra. Marcela Ribeiro,47,Londres,1ª Classe,139.49,20,22,Jornal
+1858,Dra. Laís Farias,45,Paris,1ª Classe,483.77,18,20,Boné
+1859,Maria Liz Marques,62,Madri,3ª Classe,129.86,10,12,Chocolate
+1860,Dr. Diogo Ribeiro,41,Madri,3ª Classe,63.07,13,14,Boné
+1861,Lorenzo Fogaça,32,Roma,2ª Classe,243.64,11,13,Jornal
+1862,Lavínia Fernandes,69,Paris,1ª Classe,284.83,13,15,Chocolate
+1863,Bryan Barros,23,Londres,2ª Classe,312.08,17,18,Carteira
+1864,Josué Camargo,49,Berlim,2ª Classe,162.61,15,16,Carteira
+1865,Amanda Azevedo,62,Madri,3ª Classe,209.2,10,12,Chocolate
+1866,Dr. Lucas das Neves,66,Madri,2ª Classe,277.34,15,16,Jornal
+1867,Emilly da Cruz,63,Roma,3ª Classe,281.86,21,22,Celular
+1868,Heloísa Santos,45,Paris,2ª Classe,72.37,10,11,Boné
+1869,Cauê Melo,25,Londres,1ª Classe,224.42,11,12,Celular
+1870,Cauã Rodrigues,49,Londres,3ª Classe,403.55,17,18,Chocolate
+1871,Benicio Abreu,53,Roma,2ª Classe,14.54,11,13,Bastão de Caminhada
+1872,Guilherme Cardoso,64,Berlim,3ª Classe,167.97,15,16,Carteira
+1873,Carolina Lima,51,Londres,3ª Classe,476.48,15,17,Boné
+1874,Augusto Teixeira,31,Berlim,3ª Classe,362.86,12,13,Boné
+1875,Enzo Gabriel Gonçalves,48,Paris,2ª Classe,213.99,12,14,Carteira
+1876,Anna Liz Marques,18,Berlim,3ª Classe,101.96,21,22,Boné
+1877,Lara Abreu,39,Paris,1ª Classe,316.24,19,20,Carteira
+1878,Sr. Alexandre Cavalcante,58,Madri,1ª Classe,179.03,10,11,Jornal
+1879,Sra. Lívia Siqueira,70,Roma,3ª Classe,367.37,15,17,Celular
+1880,Julia Nogueira,53,Madri,3ª Classe,333.09,11,12,Carteira
+1881,Diego Ferreira,31,Berlim,1ª Classe,138.84,11,12,Celular
+1882,Yago Almeida,55,Roma,2ª Classe,292.07,19,21,Bengala
+1883,Ryan Sá,65,Madri,3ª Classe,455.52,13,14,Carteira
+1884,Bárbara da Rosa,32,Londres,1ª Classe,465.48,19,20,Carteira
+1885,Mateus Moraes,48,Paris,2ª Classe,48.12,10,11,Boné
+1886,Josué da Mata,46,Roma,3ª Classe,241.13,14,15,Jornal
+1887,Srta. Caroline Guerra,43,Roma,2ª Classe,356.06,15,17,Celular
+1888,Brenda Pimenta,38,Madri,1ª Classe,442.81,13,14,Faca
+1889,João das Neves,35,Londres,2ª Classe,284.64,17,19,Chocolate
+1890,Aurora Almeida,53,Roma,3ª Classe,180.61,10,12,Celular
+1891,Bernardo Sousa,67,Berlim,3ª Classe,217.8,19,20,Boné
+1892,Joana Rios,29,Paris,1ª Classe,226.62,18,19,Carteira
+1893,Dr. Vinícius Garcia,37,Berlim,1ª Classe,456.41,14,15,Chocolate
+1894,Lucca Ribeiro,20,Berlim,3ª Classe,244.58,10,12,Jornal
+1895,Dr. Diego Cirino,21,Madri,1ª Classe,432.96,17,19,Boné
+1896,Erick Vasconcelos,48,Madri,1ª Classe,28.71,10,11,Chocolate
+1897,Ana Lopes,29,Londres,1ª Classe,215.59,11,12,Boné
+1898,Srta. Larissa da Rosa,63,Paris,2ª Classe,57.76,18,20,Bastão de Caminhada
+1899,Vitor Gabriel Nascimento,30,Madri,3ª Classe,18.17,20,22,Celular
+1900,Lavínia Pimenta,28,Madri,3ª Classe,472.71,18,19,Celular
+1901,João Pedro Sampaio,43,Roma,3ª Classe,338.12,11,12,Celular
+1902,Isabella Brito,50,Londres,3ª Classe,140.65,12,14,Carteira
+1903,Laura Novais,56,Londres,3ª Classe,257.68,12,13,Jornal
+1904,Pedro Henrique Peixoto,53,Berlim,1ª Classe,177.31,19,20,Chocolate
+1905,Manuela Barbosa,47,Paris,1ª Classe,459.83,12,13,Carteira
+1906,Levi Ramos,55,Paris,1ª Classe,396.48,13,15,Boné
+1907,Sr. Caleb Fernandes,64,Londres,2ª Classe,420.28,20,21,Chocolate
+1908,Felipe Araújo,65,Londres,2ª Classe,36.13,21,23,Carteira
+1909,Ana Cecília Peixoto,26,Madri,2ª Classe,212.85,13,15,Celular
+1910,Benício Moura,29,Berlim,2ª Classe,351.8,14,15,Boné
+1911,Benício Abreu,55,Berlim,2ª Classe,388.46,18,20,Celular
+1912,Eloah Lima,61,Londres,1ª Classe,475.34,19,21,Carteira
+1913,Maria Clara Novaes,54,Londres,3ª Classe,222.59,20,22,Jornal
+1914,Luiz Miguel Ferreira,62,Madri,3ª Classe,416.63,22,24,Carteira
+1915,Srta. Luísa da Cunha,67,Londres,2ª Classe,116.94,14,15,Celular
+1916,Renan Duarte,51,Londres,2ª Classe,78.51,19,21,Jornal
+1917,Isis Costa,42,Madri,1ª Classe,167.96,11,13,Celular
+1918,Raquel Nascimento,18,Londres,2ª Classe,242.99,15,16,Carteira
+1919,Srta. Alana Mendes,40,Berlim,1ª Classe,238.75,12,13,Boné
+1920,Camila Marques,57,Roma,3ª Classe,292.22,16,18,Boné
+1921,Maria Cecília da Cruz,33,Berlim,3ª Classe,192.88,15,17,Chocolate
+1922,Dr. Emanuel Moreira,37,Paris,1ª Classe,383.95,18,19,Boné
+1923,Jade Ramos,67,Berlim,3ª Classe,206.37,10,11,Boné
+1924,Catarina Fonseca,37,Madri,3ª Classe,471.99,13,14,Carteira
+1925,Davi Lucas Rodrigues,39,Paris,1ª Classe,161.54,22,23,Celular
+1926,Arthur Miguel Pereira,47,Roma,1ª Classe,235.69,20,21,Jornal
+1927,Evelyn da Conceição,29,Berlim,2ª Classe,49.38,13,14,Boné
+1928,Maysa Moreira,64,Londres,1ª Classe,345.51,22,24,Carteira
+1929,Manuella Ramos,28,Berlim,1ª Classe,240.69,20,22,Chocolate
+1930,Sophie Pereira,48,Roma,2ª Classe,356.05,22,23,Boné
+1931,Giovanna Brito,38,Londres,2ª Classe,388.9,14,16,Chocolate
+1932,Thomas Oliveira,52,Paris,2ª Classe,249.27,21,22,Jornal
+1933,Giovanna Lima,56,Londres,1ª Classe,190.87,15,16,Chocolate
+1934,Gabriel Sampaio,66,Roma,1ª Classe,326.33,12,14,Carteira
+1935,Melina da Costa,31,Berlim,2ª Classe,55.5,16,17,Boné
+1936,Esther Câmara,36,Berlim,2ª Classe,340.88,17,18,Jornal
+1937,Valentina Vieira,44,Londres,1ª Classe,205.13,18,19,Boné
+1938,Augusto Ferreira,23,Berlim,3ª Classe,369.01,20,22,Celular
+1939,João Felipe da Paz,18,Londres,2ª Classe,73.08,18,20,Chocolate
+1940,Felipe Barbosa,18,Roma,3ª Classe,480.36,16,18,Celular
+1941,Matheus Camargo,37,Roma,2ª Classe,373.61,11,13,Boné
+1942,Ayla Sá,67,Roma,3ª Classe,174.18,18,20,Carteira
+1943,Eloah Moraes,29,Roma,3ª Classe,382.21,20,21,Carteira
+1944,Cauã Martins,39,Madri,2ª Classe,106.83,19,21,Boné
+1945,Lorena Sá,47,Berlim,1ª Classe,69.56,17,19,Jornal
+1946,Luiz Miguel Viana,56,Berlim,2ª Classe,218.59,20,22,Celular
+1947,Noah das Neves,19,Madri,2ª Classe,97.58,15,17,Carteira
+1948,Léo Rios,38,Berlim,3ª Classe,27.45,11,13,Chocolate
+1949,Manuela Leão,52,Roma,1ª Classe,95.86,18,19,Carteira
+1950,Henry Mendonça,27,Roma,2ª Classe,447.43,15,17,Chocolate
+1951,Evelyn Rodrigues,33,Madri,3ª Classe,234.63,11,13,Jornal
+1952,Dr. João Gabriel Dias,27,Madri,3ª Classe,322.53,11,13,Boné
+1953,Vitor Hugo Lima,64,Paris,2ª Classe,464.45,21,23,Boné
+1954,Maria Sophia Marques,19,Londres,3ª Classe,135.86,20,21,Celular
+1955,Fernanda Viana,45,Paris,1ª Classe,289.74,14,15,Chocolate
+1956,Isabel Machado,21,Berlim,3ª Classe,241.73,22,24,Jornal
+1957,Fernanda Macedo,62,Londres,2ª Classe,255.77,10,12,Celular
+1958,Kevin Novais,61,Berlim,2ª Classe,12.48,13,14,Celular
+1959,Maria Isis Costa,60,Londres,2ª Classe,140.86,19,21,Carteira
+1960,Noah da Conceição,32,Paris,3ª Classe,169.06,11,13,Chocolate
+1961,Sophie Aparecida,56,Roma,3ª Classe,216.17,19,21,Boné
+1962,Ryan Costela,48,Madri,1ª Classe,178.05,15,17,Celular
+1963,Lucas Novais,27,Roma,3ª Classe,254.5,18,19,Chocolate
+1964,Liz Lima,34,Roma,1ª Classe,333.74,19,20,Chocolate
+1965,Allana da Mata,53,Berlim,1ª Classe,111.7,18,20,Jornal
+1966,Antony Peixoto,66,Berlim,2ª Classe,340.51,10,11,Chocolate
+1967,Srta. Bruna Dias,28,Madri,2ª Classe,286.8,16,17,Chocolate
+1968,Luan Brito,36,Madri,3ª Classe,250.47,13,15,Celular
+1969,Heloísa Pires,26,Roma,3ª Classe,474.92,11,12,Boné
+1970,Dr. José Miguel Novais,31,Paris,3ª Classe,151.78,12,14,Boné
+1971,Juan Brito,40,Londres,2ª Classe,451.22,14,16,Celular
+1972,Yago Novaes,58,Paris,3ª Classe,443.53,20,22,Boné
+1973,Theo Souza,52,Roma,1ª Classe,430.94,17,19,Jornal
+1974,Marcelo Almeida,46,Londres,1ª Classe,206.03,10,12,Celular
+1975,João Felipe Jesus,59,Londres,3ª Classe,454.57,16,18,Bengala
+1976,Rodrigo Rios,44,Londres,3ª Classe,24.23,13,14,Chocolate
+1977,Vitória Farias,50,Paris,3ª Classe,289.59,16,17,Jornal
+1978,Ana Vitória Rodrigues,33,Londres,3ª Classe,316.49,20,21,Faca
+1979,Maitê Abreu,19,Madri,3ª Classe,200.78,18,19,Celular
+1980,Kevin Farias,28,Roma,2ª Classe,364.3,13,14,Boné
+1981,Sophia Moraes,63,Londres,2ª Classe,75.0,11,12,Jornal
+1982,Sr. Vitor Gabriel Cunha,47,Roma,1ª Classe,345.0,17,18,Celular
+1983,Dr. João Guilherme da Luz,47,Madri,3ª Classe,64.47,19,21,Celular
+1984,Sara das Neves,28,Londres,2ª Classe,363.8,11,12,Chocolate
+1985,Felipe Nunes,61,Roma,3ª Classe,497.81,16,17,Celular
+1986,Gabrielly Rios,34,Madri,1ª Classe,360.74,19,20,Boné
+1987,Dra. Stephany Teixeira,70,Paris,2ª Classe,407.71,21,22,Jornal
+1988,Dr. Ryan Gomes,63,Madri,3ª Classe,328.32,16,17,Carteira
+1989,Ana Cecília Mendonça,34,Madri,1ª Classe,363.78,15,17,Chocolate
+1990,Ana Lívia Correia,27,Londres,2ª Classe,112.94,11,13,Chocolate
+1991,Guilherme Carvalho,22,Roma,3ª Classe,250.87,13,15,Jornal
+1992,Josué Pires,62,Roma,2ª Classe,395.81,21,23,Chocolate
+1993,Gael Rezende,56,Paris,1ª Classe,82.53,14,15,Jornal
+1994,Stephany Barbosa,41,Madri,2ª Classe,359.76,14,15,Chocolate
+1995,Natália Novais,37,Roma,3ª Classe,225.53,14,15,Chocolate
+1996,Maria Helena Siqueira,62,Londres,1ª Classe,307.65,16,18,Chocolate
+1997,Ana Liz Cunha,19,Londres,3ª Classe,158.45,19,20,Jornal
+1998,Josué Duarte,64,Madri,3ª Classe,436.41,18,20,Boné
+1999,Sr. Benício Carvalho,28,Berlim,3ª Classe,86.38,18,20,Boné
+2000,Stella Costa,42,Roma,3ª Classe,92.87,18,20,Carteira
